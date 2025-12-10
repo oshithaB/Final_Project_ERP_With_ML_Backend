@@ -1,0 +1,8 @@
+/node_modules
+.env*
+*.log
+/Product_Uploads
+debug_output.txt
+error_log.txt
+__pycache__
+*.joblib
