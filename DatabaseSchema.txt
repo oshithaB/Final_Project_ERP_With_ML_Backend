@@ -1,0 +1,49 @@
+CREATE TABLE Company (
+  company_id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(200) NOT NULL,
+  is_taxable BOOLEAN NOT NULL DEFAULT FALSE,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+ALTER TABLE Company
+ADD COLUMN company_logo VARCHAR(255),
+ADD COLUMN address TEXT,
+ADD COLUMN contact_number VARCHAR(20),
+ADD COLUMN registration_number VARCHAR(100);
+
+ALTER TABLE Company
+MODIFY COLUMN address TEXT NOT NULL,
+MODIFY COLUMN contact_number VARCHAR(20) NOT NULL,
+MODIFY COLUMN registration_number VARCHAR(100) NOT NULL;
+
+
+
+---------------------------------------------------------------------------
+
+CREATE TABLE Role (
+  role_id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+);
+
+--------------------------------------------------------------------------------
+
+
+CREATE TABLE `User` (
+  user_id INT AUTO_INCREMENT PRIMARY KEY,
+  role_id INT NOT NULL,
+  full_name VARCHAR(200) NOT NULL,
+  username VARCHAR(100) NOT NULL UNIQUE, 
+  email VARCHAR(255) NOT NULL UNIQUE,     
+  password_hash VARCHAR(255) NOT NULL,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (role_id) REFERENCES Role(role_id)
+);
+
+ALTER TABLE users
+ADD COLUMN otp_code VARCHAR(10),
+ADD COLUMN otp_expiry DATETIME;
+
+
+
+
