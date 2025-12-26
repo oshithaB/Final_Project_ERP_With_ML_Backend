@@ -1,0 +1,82 @@
+====================================================
+MACHINE LEARNING PREDICTION PIPELINE DOCUMENTATION
+====================================================
+
+1. DATA EXTRACTION AND PREPARATION
+-----------------------------------
+We constructed a bullet-proof database connection utilizing `mysql-connector-python` running off the existing system `.env` file credentials. We extracted historical records spanning across the full system lifecycle (6 years of ideal data).
+
+Tables used:
+- `invoices`, `invoice_items` (For Sales, Revenue, Product velocity)
+- `expenses`, `bills` (For Costs, Overhead)
+- `products` (For base cost/pricing and categorization)
+- `customer` (To track purchasing patterns per client)
+- `employees` (To track who sold what and their performance)
+
+Data Cleaning & EDA:
+- Filtered out all `proforma` or `cancelled` entries that do not reflect actual processed data.
+- Filled null values utilizing pandas `.fillna(0)` strategies to ensure math arrays don't break.
+- Datetime columns were stripped of their timezones (`tz_localize(None)`) to allow clean timestamp extraction into periods ('M').
+
+
+2. MODEL 1: PROFIT & LOSS PREDICTIONS
+--------------------------------------
+Purpose: Forecast the net earnings for future periods dynamically.
+Features: 'month_num', 'year', 'quarter', 'revenue_lag1', 'costs_lag1', 'net_profit_lag1'
+
+Algorithms Evaluated:
+1. Linear Regression
+2. Random Forest Regressor
+3. XGBoost Regressor (Failed due to environmental dependency missing, fallback to fast robust algorithms).
+
+Selection: Random Forest Regressor
+Accuracy (MAE): ~174,693 LKR (Varies depending on fresh data influx).
+Saved location: `ML predictions/models/pl_model.joblib`
+Output: `ML predictions/outputs/pl_predictions.json` generates the numerical prediction and an actionable text prompt comparing growth/recession vs past performance.
+
+
+3. MODEL 2: PRODUCT VELOCITY & SALES INSIGHTS
+----------------------------------------------
+Purpose: Classify products as 'Hero', 'Average', or 'Fail' based on sales volume and net-revenue impact.
+Method:
+- Aggregated `invoice_items` grouped by `product_id`.
+- Utilized KMeans Clustering (3 clusters) targeting `total_qty` and `total_revenue`.
+- Found the strongest (Hero) and weakest (Fail) cluster centers.
+- Trained a continuous Random Forest Classifier to assign future/new products into these clusters.
+
+Accuracy/Fit: 100% on training set.
+Saved location: `ML predictions/models/product_model.joblib`
+Actionable Output Generated: Recommendation to bulk buy Heroes and pass discounts to highest tier customers.
+
+
+4. MODEL 3: CUSTOMER VIP TIER PREDICTIONS
+------------------------------------------
+Purpose: Identify regular high-paying VIP customers vs those with a higher risk to churn.
+Method:
+- Aggregated `invoices` per `customer_id`.
+- Tracked `visit_count` and `total_spend`.
+- Utilized KMeans Clustering (3 groups). Sorted highest spending frequency.
+- Extracted exact customers mapping cleanly to "High Paying VIP" and "Occasional / Churn Risk".
+
+Actionable Output Generated: Recommends targeting re-engagement with vouchers for churn tier and exclusive rewards to VIP tier.
+
+
+5. MODEL 4: EMPLOYEE PERFORMANCE TIERS
+---------------------------------------
+Purpose: Track and identify the Top 3 Sellers and lowest sellers needing improvement based on the exact revenue they generate per invoice string.
+Method:
+- Mapped `employee_id` to `total_amount` generated.
+- Grouped total conversions vs actual generated invoice value.
+- Hand-picked the Top 3 based on pure revenue stream injection.
+
+Actionable Output Generated: Triggers bonuses/stretch targets for Top 3, advises shadowing programs for the lowest performers.
+
+
+6. AUTOMATION AND WEEKLY RETRAINING (retrain.py)
+-------------------------------------------------
+The main orchestrator (`retrain.py`) executes both the P&L modelling script and the Insights modelling script sequentially.
+Cron triggers can run `python retrain.py` every week to pull the newest records injected into the database and regenerate the JSON files.
+
+7. BACKEND SERVING
+-------------------
+Data JSON is securely funneled out of Node.js routes (`/api/ai/pl-prediction`, `/api/ai/business-decisions`) enabling instantaneous, lag-free frontend presentation of complex data.
