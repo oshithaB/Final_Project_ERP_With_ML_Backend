@@ -1,0 +1,306 @@
+{
+    "products": {
+        "hero_products": [
+            {
+                "name": "Accessory Type 55 / Cable 55m / Connector Variant 55",
+                "r_val": 420059.73750000005,
+                "velocity_pct": -9.470752089136491
+            },
+            {
+                "name": "Accessory Type 46 / Cable 46m / Connector Variant 46",
+                "r_val": 317817.2514,
+                "velocity_pct": 17.72151898734177
+            },
+            {
+                "name": "Small Panel 19W / Bracket type 26 / Breaker 64A",
+                "r_val": 297491.397,
+                "velocity_pct": 52.17391304347827
+            },
+            {
+                "name": "Accessory Type 33 / Cable 33m / Connector Variant 33",
+                "r_val": 276758.8488,
+                "velocity_pct": 67.44186046511628
+            },
+            {
+                "name": "Accessory Type 53 / Cable 53m / Connector Variant 53",
+                "r_val": 276564.646,
+                "velocity_pct": 4.109589041095886
+            },
+            {
+                "name": "Small Panel 15W / Bracket type 36 / Breaker 22A",
+                "r_val": 276404.458,
+                "velocity_pct": 37.49999999999999
+            },
+            {
+                "name": "Accessory Type 2 / Cable 2m / Connector Variant 2",
+                "r_val": 273998.6249,
+                "velocity_pct": 83.33333333333333
+            },
+            {
+                "name": "Small Panel 23W / Bracket type 60 / Breaker 43A",
+                "r_val": 269547.456,
+                "velocity_pct": 20.000000000000014
+            },
+            {
+                "name": "Small Panel 18W / Bracket type 56 / Breaker 33A",
+                "r_val": 267906.9666,
+                "velocity_pct": 39.999999999999986
+            },
+            {
+                "name": "Small Panel 17W / Bracket type 15 / Breaker 22A",
+                "r_val": 256207.2708,
+                "velocity_pct": -13.636363636363638
+            }
+        ],
+        "trending_up": [
+            {
+                "name": "Inverter Component 78 / Mid-Panel 187W / Budget Battery Type 78",
+                "velocity_pct": 200.00000000000006,
+                "change": 48086.66100000001
+            },
+            {
+                "name": "Inverter Component 4 / Mid-Panel 165W / Budget Battery Type 4",
+                "velocity_pct": 200.0,
+                "change": 69438.695
+            },
+            {
+                "name": "Small Panel 15W / Bracket type 19 / Breaker 80A",
+                "velocity_pct": 200.0,
+                "change": 62500.712
+            },
+            {
+                "name": "Inverter Component 47 / Mid-Panel 271W / Budget Battery Type 47",
+                "velocity_pct": 199.99999999999994,
+                "change": 79834.98319999999
+            },
+            {
+                "name": "Small Panel 20W / Bracket type 57 / Breaker 43A",
+                "velocity_pct": 124.99999999999997,
+                "change": 67873.305
+            },
+            {
+                "name": "Inverter Component 48 / Mid-Panel 190W / Budget Battery Type 48",
+                "velocity_pct": 100.0,
+                "change": 81695.2965
+            },
+            {
+                "name": "Accessory Type 2 / Cable 2m / Connector Variant 2",
+                "velocity_pct": 83.33333333333333,
+                "change": 124544.82949999999
+            },
+            {
+                "name": "Accessory Type 33 / Cable 33m / Connector Variant 33",
+                "velocity_pct": 67.44186046511628,
+                "change": 111472.31409999999
+            },
+            {
+                "name": "Small Panel 42W / Bracket type 38 / Breaker 89A",
+                "velocity_pct": 66.66666666666669,
+                "change": 59901.76280000001
+            },
+            {
+                "name": "Small Panel 22W / Bracket type 59 / Breaker 49A",
+                "velocity_pct": 60.0,
+                "change": 77667.966
+            }
+        ],
+        "trending_down": [
+            {
+                "name": "Inverter Component 3 / Mid-Panel 111W / Budget Battery Type 3",
+                "velocity_pct": -50.0,
+                "change": -29514.3898
+            },
+            {
+                "name": "Inverter Component 62 / Mid-Panel 270W / Budget Battery Type 62",
+                "velocity_pct": -50.0,
+                "change": -25936.839
+            },
+            {
+                "name": "Small Panel 46W / Bracket type 11 / Breaker 82A",
+                "velocity_pct": -42.85714285714286,
+                "change": -91792.5255
+            },
+            {
+                "name": "Accessory Type 68 / Cable 68m / Connector Variant 68",
+                "velocity_pct": -39.71631205673759,
+                "change": -126409.08560000002
+            },
+            {
+                "name": "Small Panel 17W / Bracket type 72 / Breaker 11A",
+                "velocity_pct": -32.43243243243243,
+                "change": -91249.0164
+            },
+            {
+                "name": "Accessory Type 76 / Cable 76m / Connector Variant 76",
+                "velocity_pct": -32.038834951456316,
+                "change": -100665.9423
+            },
+            {
+                "name": "Accessory Type 67 / Cable 67m / Connector Variant 67",
+                "velocity_pct": -31.313131313131322,
+                "change": -78190.67070000002
+            },
+            {
+                "name": "Accessory Type 7 / Cable 7m / Connector Variant 7",
+                "velocity_pct": -29.166666666666668,
+                "change": -84051.016
+            },
+            {
+                "name": "Accessory Type 10 / Cable 10m / Connector Variant 10",
+                "velocity_pct": -26.74418604651163,
+                "change": -78343.65340000001
+            },
+            {
+                "name": "Small Panel 48W / Bracket type 30 / Breaker 99A",
+                "velocity_pct": -26.66666666666666,
+                "change": -49889.22039999999
+            }
+        ]
+    },
+    "customers": {
+        "vip_customers": [
+            {
+                "name": "Kasun Gunawardena Enterprises",
+                "r_val": 126630.43000000001,
+                "velocity_pct": 617.741991249733
+            },
+            {
+                "name": "Kasun Bandara",
+                "r_val": 124013.17,
+                "velocity_pct": 112.42668631747428
+            },
+            {
+                "name": "Nuwan Silva",
+                "r_val": 116702.05,
+                "velocity_pct": 80.78589516802026
+            },
+            {
+                "name": "Nuwan Jayawardena",
+                "r_val": 115054.2,
+                "velocity_pct": 187.759524354997
+            },
+            {
+                "name": "Pradeep Silva",
+                "r_val": 114947.08,
+                "velocity_pct": 624.1217084540758
+            },
+            {
+                "name": "Gayan De Silva",
+                "r_val": 111045.53,
+                "velocity_pct": 139.02137417100585
+            },
+            {
+                "name": "Ruwan Jayawardena",
+                "r_val": 106874.05,
+                "velocity_pct": 422.2582967118081
+            },
+            {
+                "name": "Saman Kumara",
+                "r_val": 106330.51999999999,
+                "velocity_pct": 64.28653978672054
+            },
+            {
+                "name": "Gayan Fernando Pvt Ltd",
+                "r_val": 105284.32,
+                "velocity_pct": 214.64043017423757
+            },
+            {
+                "name": "Roshan De Silva",
+                "r_val": 104280.78,
+                "velocity_pct": 241.60615934753315
+            }
+        ],
+        "churn_risk": [
+            {
+                "name": "Saman Jayawardena Traders",
+                "p_val": 93045.67,
+                "r_val": 0.0,
+                "velocity_pct": -100.0
+            },
+            {
+                "name": "Kamal Bandara",
+                "p_val": 85437.01,
+                "r_val": 1525.14,
+                "velocity_pct": -98.21489539486458
+            },
+            {
+                "name": "Pradeep De Silva Enterprises",
+                "p_val": 26737.83,
+                "r_val": 1525.14,
+                "velocity_pct": -94.29594697849451
+            },
+            {
+                "name": "Kasun Rajapaksa",
+                "p_val": 45020.99,
+                "r_val": 4512.110000000001,
+                "velocity_pct": -89.97776370532945
+            },
+            {
+                "name": "Saman Gunawardena Enterprises",
+                "p_val": 58338.24,
+                "r_val": 6234.27,
+                "velocity_pct": -89.3135788806793
+            },
+            {
+                "name": "Nuwan Dias",
+                "p_val": 66683.98,
+                "r_val": 8068.209999999999,
+                "velocity_pct": -87.9008271551878
+            },
+            {
+                "name": "Kasun Bandara",
+                "p_val": 44771.04,
+                "r_val": 5426.4800000000005,
+                "velocity_pct": -87.87948638226854
+            },
+            {
+                "name": "Ruwan Silva Enterprises",
+                "p_val": 53282.5,
+                "r_val": 7440.32,
+                "velocity_pct": -86.03609064889973
+            },
+            {
+                "name": "Nuwan Perera Traders",
+                "p_val": 51237.950000000004,
+                "r_val": 7323.18,
+                "velocity_pct": -85.70750781403237
+            },
+            {
+                "name": "Pradeep Kumara Pvt Ltd",
+                "p_val": 123071.88,
+                "r_val": 19078.789999999997,
+                "velocity_pct": -84.4978479243187
+            }
+        ]
+    },
+    "employees": {
+        "top_sellers": [
+            {
+                "name": "Kamal Fernando",
+                "r_val": 3371913.83,
+                "velocity_pct": 27.14393377848924
+            },
+            {
+                "name": "Ajith Perera",
+                "r_val": 3139202.58,
+                "velocity_pct": 1.6919150144597512
+            },
+            {
+                "name": "Ruwan Kumara",
+                "r_val": 2980527.84,
+                "velocity_pct": 5.837194697744208
+            },
+            {
+                "name": "Nimal Perera",
+                "r_val": 2929599.1,
+                "velocity_pct": 1.4576194447992632
+            },
+            {
+                "name": "Sunil Silva",
+                "r_val": 2667090.43,
+                "velocity_pct": -7.771770001811089
+            }
+        ],
+        "slowing_down": []
+    }
+}
