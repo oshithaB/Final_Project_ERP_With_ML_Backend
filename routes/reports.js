@@ -662,3 +662,4 @@ router.get(
     authorizedRoles(['admin', 'staff', 'accountant']),
     getDetailedTrialBalance
 );
+
