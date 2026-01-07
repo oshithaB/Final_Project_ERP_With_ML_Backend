@@ -23,3 +23,4 @@ const authorizedRoles = (roles) => {
 }
 
 module.exports = authorizedRoles;
+
