@@ -598,3 +598,4 @@ module.exports = {
     getCompanyById,
     getNextNumbers
 };
+
