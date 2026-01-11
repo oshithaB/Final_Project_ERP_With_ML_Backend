@@ -15,3 +15,4 @@ router.post('/pl-custom-range', AiController.getPlCustomRange);
 router.post('/chat', AiController.chatWithGemini);
 
 module.exports = router;
+
