@@ -47,3 +47,4 @@ ADD COLUMN otp_expiry DATETIME;
 
 
 
+
