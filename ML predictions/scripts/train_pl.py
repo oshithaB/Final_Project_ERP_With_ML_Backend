@@ -211,3 +211,4 @@ if __name__ == "__main__":
     df = prep_daily_pl_data()
     print("Training models and predicting 365 future days...")
     train_and_predict(df)
+
