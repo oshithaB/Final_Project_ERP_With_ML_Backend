@@ -20,3 +20,4 @@ router.post('/resendOTP', resendOTP);
 router.post('/resetPassword', resetPassword);
 
 module.exports = router;
+
