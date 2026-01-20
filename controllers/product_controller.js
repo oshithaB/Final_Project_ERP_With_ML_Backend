@@ -823,3 +823,4 @@ module.exports = {
     getEmployees,
     adjustStock
 };
+
