@@ -17,3 +17,4 @@ router.put('/updateCustomers/:company_id/:customer_id', verifyToken, authorizedR
 router.put('/deleteCustomers/:company_id/:customer_id', verifyToken, authorizedRoles(['admin']), softDeleteCustomer);
 
 module.exports = router;
+
