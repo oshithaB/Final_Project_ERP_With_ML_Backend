@@ -51,3 +51,4 @@ module.exports = {
     getLock,
     getAllLocks
 };
+
