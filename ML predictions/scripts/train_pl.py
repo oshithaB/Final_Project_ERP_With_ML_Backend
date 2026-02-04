@@ -212,3 +212,4 @@ if __name__ == "__main__":
     print("Training models and predicting 365 future days...")
     train_and_predict(df)
 
+
