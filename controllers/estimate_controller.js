@@ -801,3 +801,4 @@ module.exports = {
   getEstimatesByCustomer,
   updateEstimateAfterInvoice
 };
+
