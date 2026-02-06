@@ -20,3 +20,4 @@ router.put('/softDeleteUser/:userId', verifyToken, authorizedRoles('admin'), sof
 // router.delete('/permanentlyDeleteUser/:userId', verifyToken, authorizedRoles('admin'), permanentlyDeleteUser);
 
 module.exports = router;
+
