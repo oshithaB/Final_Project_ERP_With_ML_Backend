@@ -39,3 +39,4 @@ const getEmployeeContacts = async (req, res) => {
 module.exports = {
     getEmployeeContacts,
 };
+
