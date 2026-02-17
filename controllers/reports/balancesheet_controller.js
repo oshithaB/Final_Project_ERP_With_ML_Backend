@@ -497,3 +497,4 @@ module.exports = {
     getBalanceSheetData,
     getFormattedBalanceSheet
 };
+
