@@ -2508,3 +2508,4 @@ module.exports = {
   getInvoicePayments,
   updatePayment
 };
+
