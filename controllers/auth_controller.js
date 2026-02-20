@@ -247,3 +247,4 @@ module.exports = {
     resendOTP,
     resetPassword
 };
+
