@@ -302,3 +302,4 @@ module.exports = {
     getCustomerInvoices,
     getARAgingSummaryInDetails,
 };
+
