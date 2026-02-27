@@ -21,3 +21,4 @@ router.put('/softDeleteUser/:userId', verifyToken, authorizedRoles('admin'), sof
 
 module.exports = router;
 
+
