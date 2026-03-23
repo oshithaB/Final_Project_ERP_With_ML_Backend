@@ -1,2199 +1,2201 @@
 {
     "metadata": {
-        "revenue_mae": 8772.110613667426,
-        "costs_mae": 5236.616500182235,
-        "last_trained": "2026-03-23T09:20:37.868567"
+        "revenue_r2": 0.9016091938751707,
+        "revenue_acc": 92.55455080902028,
+        "costs_r2": 0.8735268770590194,
+        "costs_acc": 91.40840950925374,
+        "last_trained": "2026-03-23T10:14:20.452638"
     },
     "daily_forecasts": [
         {
             "date": "2026-03-23",
-            "predicted_revenue": 97875.1804,
-            "predicted_costs": 58591.01219999999,
-            "predicted_profit": 39284.16820000001
+            "predicted_revenue": 59507.56723148029,
+            "predicted_costs": 59507.56723148029,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-24",
-            "predicted_revenue": 102232.70469999999,
-            "predicted_costs": 61181.45201999999,
-            "predicted_profit": 41051.25268
+            "predicted_revenue": 58266.69718584922,
+            "predicted_costs": 58266.69718584922,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-25",
-            "predicted_revenue": 106628.47290000001,
-            "predicted_costs": 63461.97390000003,
-            "predicted_profit": 43166.498999999974
+            "predicted_revenue": 57140.14703779766,
+            "predicted_costs": 57140.14703779766,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-26",
-            "predicted_revenue": 106130.68140000003,
-            "predicted_costs": 63565.01753999998,
-            "predicted_profit": 42565.66386000005
+            "predicted_revenue": 57536.412143555295,
+            "predicted_costs": 57536.412143555295,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-27",
-            "predicted_revenue": 110736.38200000004,
-            "predicted_costs": 66514.30086000003,
-            "predicted_profit": 44222.08114000001
+            "predicted_revenue": 58299.15307054842,
+            "predicted_costs": 58299.15307054842,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-28",
-            "predicted_revenue": 108751.94729999997,
-            "predicted_costs": 64808.394899999985,
-            "predicted_profit": 43943.552399999986
+            "predicted_revenue": 53614.37295129129,
+            "predicted_costs": 53614.37295129129,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-29",
-            "predicted_revenue": 106971.86860000002,
-            "predicted_costs": 64401.56699999998,
-            "predicted_profit": 42570.301600000035
+            "predicted_revenue": 53088.90808152212,
+            "predicted_costs": 53088.90808152212,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-30",
-            "predicted_revenue": 107247.14110000007,
-            "predicted_costs": 64436.61432000001,
-            "predicted_profit": 42810.52678000006
+            "predicted_revenue": 56004.403083659556,
+            "predicted_costs": 56004.403083659556,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-03-31",
-            "predicted_revenue": 109373.02680000007,
-            "predicted_costs": 65542.61508000002,
-            "predicted_profit": 43830.41172000005
+            "predicted_revenue": 57742.4776518116,
+            "predicted_costs": 57742.4776518116,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-01",
-            "predicted_revenue": 95472.40009999996,
-            "predicted_costs": 57082.377479999996,
-            "predicted_profit": 38390.02261999996
+            "predicted_revenue": 47081.50551682395,
+            "predicted_costs": 47081.50551682395,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-02",
-            "predicted_revenue": 90964.28869999996,
-            "predicted_costs": 54286.502220000046,
-            "predicted_profit": 36677.786479999915
+            "predicted_revenue": 45075.73941406509,
+            "predicted_costs": 45075.73941406509,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-03",
-            "predicted_revenue": 90634.34439999997,
-            "predicted_costs": 54018.254279999994,
-            "predicted_profit": 36616.09011999998
+            "predicted_revenue": 43918.73709303992,
+            "predicted_costs": 43918.73709303992,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-04",
-            "predicted_revenue": 86884.83670000004,
-            "predicted_costs": 51855.43697999998,
-            "predicted_profit": 35029.39972000007
+            "predicted_revenue": 38227.66740110215,
+            "predicted_costs": 38227.66740110215,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-05",
-            "predicted_revenue": 87221.58439999999,
-            "predicted_costs": 52200.71003999999,
-            "predicted_profit": 35020.87436
+            "predicted_revenue": 37288.59901140139,
+            "predicted_costs": 37288.59901140139,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-06",
-            "predicted_revenue": 88814.59419999999,
-            "predicted_costs": 53223.31517999998,
-            "predicted_profit": 35591.27902000001
+            "predicted_revenue": 39745.35485351531,
+            "predicted_costs": 39745.35485351531,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-07",
-            "predicted_revenue": 87434.43140000003,
-            "predicted_costs": 52360.89923999996,
-            "predicted_profit": 35073.53216000007
+            "predicted_revenue": 41209.69878983917,
+            "predicted_costs": 41209.69878983917,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-08",
-            "predicted_revenue": 87970.05969999998,
-            "predicted_costs": 52402.368239999974,
-            "predicted_profit": 35567.69146000001
+            "predicted_revenue": 43008.28961294188,
+            "predicted_costs": 43008.28961294188,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-09",
-            "predicted_revenue": 87983.98289999997,
-            "predicted_costs": 52598.64959999998,
-            "predicted_profit": 35385.33329999999
+            "predicted_revenue": 44696.6945097418,
+            "predicted_costs": 44696.6945097418,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-10",
-            "predicted_revenue": 88796.4615,
-            "predicted_costs": 53330.383379999956,
-            "predicted_profit": 35466.07812000005
+            "predicted_revenue": 46399.25266418661,
+            "predicted_costs": 46399.25266418661,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-11",
-            "predicted_revenue": 86125.9617,
-            "predicted_costs": 52062.35795999997,
-            "predicted_profit": 34063.60374000003
+            "predicted_revenue": 42126.89954567107,
+            "predicted_costs": 42126.89954567107,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-12",
-            "predicted_revenue": 85481.38149999999,
-            "predicted_costs": 51849.96257999998,
-            "predicted_profit": 33631.41892000001
+            "predicted_revenue": 42067.10697290188,
+            "predicted_costs": 42067.10697290188,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-13",
-            "predicted_revenue": 88500.40670000004,
-            "predicted_costs": 53188.21775999998,
-            "predicted_profit": 35312.18894000006
+            "predicted_revenue": 45051.755827849986,
+            "predicted_costs": 45051.755827849986,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-14",
-            "predicted_revenue": 87958.79360000002,
-            "predicted_costs": 52748.052599999995,
-            "predicted_profit": 35210.74100000002
+            "predicted_revenue": 46867.29969565263,
+            "predicted_costs": 46867.29969565263,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-15",
-            "predicted_revenue": 89171.3835,
-            "predicted_costs": 53678.60549999997,
-            "predicted_profit": 35492.77800000003
+            "predicted_revenue": 48750.4136794925,
+            "predicted_costs": 48750.4136794925,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-16",
-            "predicted_revenue": 87910.55659999998,
-            "predicted_costs": 52753.13531999998,
-            "predicted_profit": 35157.42128
+            "predicted_revenue": 50495.424883063955,
+            "predicted_costs": 50495.424883063955,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-17",
-            "predicted_revenue": 89935.27439999998,
-            "predicted_costs": 53807.092619999974,
-            "predicted_profit": 36128.181780000006
+            "predicted_revenue": 52208.88325118608,
+            "predicted_costs": 52208.88325118608,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-18",
-            "predicted_revenue": 86870.52169999997,
-            "predicted_costs": 51962.61125999999,
-            "predicted_profit": 34907.91043999998
+            "predicted_revenue": 47939.74362685956,
+            "predicted_costs": 47939.74362685956,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-19",
-            "predicted_revenue": 84488.88989999998,
-            "predicted_costs": 50932.6482,
-            "predicted_profit": 33556.24169999998
+            "predicted_revenue": 47877.09504349421,
+            "predicted_costs": 47877.09504349421,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-20",
-            "predicted_revenue": 88139.12250000006,
-            "predicted_costs": 53193.131219999996,
-            "predicted_profit": 34945.99128000006
+            "predicted_revenue": 50857.771499663744,
+            "predicted_costs": 50857.771499663744,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-21",
-            "predicted_revenue": 88059.03609999997,
-            "predicted_costs": 52593.53334000001,
-            "predicted_profit": 35465.50275999996
+            "predicted_revenue": 52668.7593869103,
+            "predicted_costs": 52668.7593869103,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-22",
-            "predicted_revenue": 89025.59799999998,
-            "predicted_costs": 53521.81572,
-            "predicted_profit": 35503.782279999985
+            "predicted_revenue": 54549.34289910619,
+            "predicted_costs": 54549.34289910619,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-23",
-            "predicted_revenue": 87498.46669999998,
-            "predicted_costs": 52299.32226000001,
-            "predicted_profit": 35199.14443999997
+            "predicted_revenue": 56292.42305609325,
+            "predicted_costs": 56292.42305609325,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-24",
-            "predicted_revenue": 92031.14799999997,
-            "predicted_costs": 54806.43389999999,
-            "predicted_profit": 37224.71409999998
+            "predicted_revenue": 58004.81519792884,
+            "predicted_costs": 58004.81519792884,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-25",
-            "predicted_revenue": 88269.49329999999,
-            "predicted_costs": 52263.62321999999,
-            "predicted_profit": 36005.87008
+            "predicted_revenue": 53735.008780730976,
+            "predicted_costs": 53735.008780730976,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-26",
-            "predicted_revenue": 85866.33219999995,
-            "predicted_costs": 51842.07846,
-            "predicted_profit": 34024.25373999995
+            "predicted_revenue": 53671.997057477,
+            "predicted_costs": 53671.997057477,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-27",
-            "predicted_revenue": 90430.45930000002,
-            "predicted_costs": 54147.144719999975,
-            "predicted_profit": 36283.31458000004
+            "predicted_revenue": 56652.477693294786,
+            "predicted_costs": 56652.477693294786,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-28",
-            "predicted_revenue": 88747.35419999999,
-            "predicted_costs": 53030.098199999986,
-            "predicted_profit": 35717.256
+            "predicted_revenue": 58463.380924601,
+            "predicted_costs": 58463.380924601,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-29",
-            "predicted_revenue": 89949.80289999995,
-            "predicted_costs": 54343.90722,
-            "predicted_profit": 35605.89567999995
+            "predicted_revenue": 60343.9234949512,
+            "predicted_costs": 60343.9234949512,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-04-30",
-            "predicted_revenue": 89964.65159999998,
-            "predicted_costs": 53920.414499999955,
-            "predicted_profit": 36044.23710000003
+            "predicted_revenue": 62086.99113344874,
+            "predicted_costs": 62086.99113344874,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-01",
-            "predicted_revenue": 86533.87760000002,
-            "predicted_costs": 52316.29805999997,
-            "predicted_profit": 34217.57954000005
+            "predicted_revenue": 51731.30934901035,
+            "predicted_costs": 51731.30934901035,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-02",
-            "predicted_revenue": 84461.59779999999,
-            "predicted_costs": 50398.43244,
-            "predicted_profit": 34063.16535999999
+            "predicted_revenue": 43857.178011020966,
+            "predicted_costs": 43857.178011020966,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-03",
-            "predicted_revenue": 83390.56630000002,
-            "predicted_costs": 49885.89546000001,
-            "predicted_profit": 33504.67084000001
+            "predicted_revenue": 41028.162127822565,
+            "predicted_costs": 41028.162127822565,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-04",
-            "predicted_revenue": 81829.32250000002,
-            "predicted_costs": 49097.83961999998,
-            "predicted_profit": 32731.482880000047
+            "predicted_revenue": 42637.93051503139,
+            "predicted_costs": 42637.93051503139,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-05",
-            "predicted_revenue": 81870.94820000003,
-            "predicted_costs": 48888.78354,
-            "predicted_profit": 32982.16466000003
+            "predicted_revenue": 43600.264636828135,
+            "predicted_costs": 43600.264636828135,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-06",
-            "predicted_revenue": 83789.4704,
-            "predicted_costs": 50616.365580000005,
-            "predicted_profit": 33173.10482
+            "predicted_revenue": 44974.355563781195,
+            "predicted_costs": 44974.355563781195,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-07",
-            "predicted_revenue": 85695.08740000002,
-            "predicted_costs": 51617.07348,
-            "predicted_profit": 34078.01392000002
+            "predicted_revenue": 46381.706429960424,
+            "predicted_costs": 46381.706429960424,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-08",
-            "predicted_revenue": 87568.89059999998,
-            "predicted_costs": 52300.47503999999,
-            "predicted_profit": 35268.415559999994
+            "predicted_revenue": 48014.183034286354,
+            "predicted_costs": 48014.183034286354,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-09",
-            "predicted_revenue": 88097.54830000002,
-            "predicted_costs": 52890.46608,
-            "predicted_profit": 35207.082220000026
+            "predicted_revenue": 43691.067356226195,
+            "predicted_costs": 43691.067356226195,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-10",
-            "predicted_revenue": 88721.10659999997,
-            "predicted_costs": 53375.750699999975,
-            "predicted_profit": 35345.355899999995
+            "predicted_revenue": 43618.242793468875,
+            "predicted_costs": 43618.242793468875,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-11",
-            "predicted_revenue": 93800.6047000001,
-            "predicted_costs": 56480.171759999954,
-            "predicted_profit": 37320.432940000144
+            "predicted_revenue": 46596.06094895929,
+            "predicted_costs": 46596.06094895929,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-12",
-            "predicted_revenue": 99508.44220000002,
-            "predicted_costs": 59712.858960000005,
-            "predicted_profit": 39795.583240000014
+            "predicted_revenue": 48409.98159869695,
+            "predicted_costs": 48409.98159869695,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-13",
-            "predicted_revenue": 97274.60809999998,
-            "predicted_costs": 58593.370559999996,
-            "predicted_profit": 38681.23753999999
+            "predicted_revenue": 50294.49068357657,
+            "predicted_costs": 50294.49068357657,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-14",
-            "predicted_revenue": 106353.27630000001,
-            "predicted_costs": 63840.14808,
-            "predicted_profit": 42513.12822000001
+            "predicted_revenue": 52042.0132875986,
+            "predicted_costs": 52042.0132875986,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-15",
-            "predicted_revenue": 106022.5186,
-            "predicted_costs": 63381.58224,
-            "predicted_profit": 42640.93635999999
+            "predicted_revenue": 53756.87285266824,
+            "predicted_costs": 53756.87285266824,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-16",
-            "predicted_revenue": 103637.54049999999,
-            "predicted_costs": 62425.841879999985,
-            "predicted_profit": 41211.69862
+            "predicted_revenue": 49488.94033912067,
+            "predicted_costs": 49488.94033912067,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-17",
-            "predicted_revenue": 101260.58059999999,
-            "predicted_costs": 60929.20169999997,
-            "predicted_profit": 40331.37890000002
+            "predicted_revenue": 49426.96266377928,
+            "predicted_costs": 49426.96266377928,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-18",
-            "predicted_revenue": 111673.03250000003,
-            "predicted_costs": 66579.99869999997,
-            "predicted_profit": 45093.03380000006
+            "predicted_revenue": 52408.08847192835,
+            "predicted_costs": 52408.08847192835,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-19",
-            "predicted_revenue": 112094.65159999997,
-            "predicted_costs": 66791.70563999996,
-            "predicted_profit": 45302.94596000001
+            "predicted_revenue": 54219.342189501695,
+            "predicted_costs": 54219.342189501695,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-20",
-            "predicted_revenue": 114923.56420000008,
-            "predicted_costs": 68801.75700000001,
-            "predicted_profit": 46121.80720000007
+            "predicted_revenue": 56100.073357360176,
+            "predicted_costs": 56100.073357360176,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-21",
-            "predicted_revenue": 116655.7283,
-            "predicted_costs": 69972.45558000001,
-            "predicted_profit": 46683.27271999999
+            "predicted_revenue": 57843.22227276212,
+            "predicted_costs": 57843.22227276212,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-22",
-            "predicted_revenue": 119557.6858,
-            "predicted_costs": 72280.21668000001,
-            "predicted_profit": 47277.469119999994
+            "predicted_revenue": 59555.65031593717,
+            "predicted_costs": 59555.65031593717,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-23",
-            "predicted_revenue": 114816.34540000006,
-            "predicted_costs": 68792.71410000001,
-            "predicted_profit": 46023.63130000005
+            "predicted_revenue": 55285.8573551886,
+            "predicted_costs": 55285.8573551886,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-24",
-            "predicted_revenue": 111475.79129999995,
-            "predicted_costs": 67262.82137999998,
-            "predicted_profit": 44212.969919999974
+            "predicted_revenue": 55222.85110875577,
+            "predicted_costs": 55222.85110875577,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-25",
-            "predicted_revenue": 121704.27920000002,
-            "predicted_costs": 73121.26854000002,
-            "predicted_profit": 48583.01066
+            "predicted_revenue": 58203.332523564415,
+            "predicted_costs": 58203.332523564415,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-26",
-            "predicted_revenue": 127893.4867999999,
-            "predicted_costs": 76697.10318,
-            "predicted_profit": 51196.38361999989
+            "predicted_revenue": 60014.23499786717,
+            "predicted_costs": 60014.23499786717,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-27",
-            "predicted_revenue": 127370.07130000007,
-            "predicted_costs": 76030.20018000001,
-            "predicted_profit": 51339.871120000054
+            "predicted_revenue": 61894.77639593523,
+            "predicted_costs": 61894.77639593523,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-28",
-            "predicted_revenue": 126471.56580000004,
-            "predicted_costs": 76152.08028,
-            "predicted_profit": 50319.485520000046
+            "predicted_revenue": 63637.843080508246,
+            "predicted_costs": 63637.843080508246,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-29",
-            "predicted_revenue": 130745.8719,
-            "predicted_costs": 78909.82386000002,
-            "predicted_profit": 51836.04803999998
+            "predicted_revenue": 65350.231244010865,
+            "predicted_costs": 65350.231244010865,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-30",
-            "predicted_revenue": 128330.86670000012,
-            "predicted_costs": 76677.41712000001,
-            "predicted_profit": 51653.4495800001
+            "predicted_revenue": 61080.425979639804,
+            "predicted_costs": 61080.425979639804,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-05-31",
-            "predicted_revenue": 126423.5958,
-            "predicted_costs": 75672.50507999999,
-            "predicted_profit": 50751.09072000001
+            "predicted_revenue": 61017.41647831472,
+            "predicted_costs": 61017.41647831472,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-01",
-            "predicted_revenue": 112215.8875999999,
-            "predicted_costs": 67604.13252000004,
-            "predicted_profit": 44611.75507999986
+            "predicted_revenue": 51467.92007774481,
+            "predicted_costs": 51467.92007774481,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-02",
-            "predicted_revenue": 110205.22120000004,
-            "predicted_costs": 66285.50946000007,
-            "predicted_profit": 43919.71173999997
+            "predicted_revenue": 49536.54184635394,
+            "predicted_costs": 49536.54184635394,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-03",
-            "predicted_revenue": 101300.54369999998,
-            "predicted_costs": 60463.20426000003,
-            "predicted_profit": 40837.33943999995
+            "predicted_revenue": 48545.2092656664,
+            "predicted_costs": 48545.2092656664,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-04",
-            "predicted_revenue": 98559.81619999999,
-            "predicted_costs": 59009.43516000001,
-            "predicted_profit": 39550.38103999998
+            "predicted_revenue": 48865.098449697136,
+            "predicted_costs": 48865.098449697136,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-05",
-            "predicted_revenue": 96525.2616000001,
-            "predicted_costs": 58070.076720000034,
-            "predicted_profit": 38455.184880000066
+            "predicted_revenue": 49696.43766979949,
+            "predicted_costs": 49696.43766979949,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-06",
-            "predicted_revenue": 95608.61700000003,
-            "predicted_costs": 57852.867600000034,
-            "predicted_profit": 37755.74939999999
+            "predicted_revenue": 44900.795631354216,
+            "predicted_costs": 44900.795631354216,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-07",
-            "predicted_revenue": 92854.7792,
-            "predicted_costs": 55891.76952000002,
-            "predicted_profit": 36963.00967999998
+            "predicted_revenue": 44489.21937229422,
+            "predicted_costs": 44489.21937229422,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-08",
-            "predicted_revenue": 95563.53710000003,
-            "predicted_costs": 57643.40226000002,
-            "predicted_profit": 37920.13484000001
+            "predicted_revenue": 47386.73109095277,
+            "predicted_costs": 47386.73109095277,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-09",
-            "predicted_revenue": 98161.09649999997,
-            "predicted_costs": 58768.534319999984,
-            "predicted_profit": 39392.562179999986
+            "predicted_revenue": 49142.28446060911,
+            "predicted_costs": 49142.28446060911,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-10",
-            "predicted_revenue": 98737.3984,
-            "predicted_costs": 58758.233940000035,
-            "predicted_profit": 39979.16445999997
+            "predicted_revenue": 51012.637081989305,
+            "predicted_costs": 51012.637081989305,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-11",
-            "predicted_revenue": 107142.77979999996,
-            "predicted_costs": 64073.6577,
-            "predicted_profit": 43069.12209999996
+            "predicted_revenue": 52752.93846590942,
+            "predicted_costs": 52752.93846590942,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-12",
-            "predicted_revenue": 109904.9236,
-            "predicted_costs": 65658.89772,
-            "predicted_profit": 44246.02588
+            "predicted_revenue": 54468.45889540625,
+            "predicted_costs": 54468.45889540625,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-13",
-            "predicted_revenue": 108149.36920000002,
-            "predicted_costs": 64624.983479999995,
-            "predicted_profit": 43524.38572000002
+            "predicted_revenue": 50202.77139767882,
+            "predicted_costs": 50202.77139767882,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-14",
-            "predicted_revenue": 108164.76979999995,
-            "predicted_costs": 64970.068199999994,
-            "predicted_profit": 43194.70159999996
+            "predicted_revenue": 50144.387036927146,
+            "predicted_costs": 50144.387036927146,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-15",
-            "predicted_revenue": 112662.17580000007,
-            "predicted_costs": 67412.06573999996,
-            "predicted_profit": 45250.11006000011
+            "predicted_revenue": 53127.43494529997,
+            "predicted_costs": 53127.43494529997,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-16",
-            "predicted_revenue": 116362.10730000005,
-            "predicted_costs": 69654.16014,
-            "predicted_profit": 46707.94716000004
+            "predicted_revenue": 54940.28362988851,
+            "predicted_costs": 54940.28362988851,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-17",
-            "predicted_revenue": 116368.93339999998,
-            "predicted_costs": 69715.47833999997,
-            "predicted_profit": 46653.45506000001
+            "predicted_revenue": 56821.89830662645,
+            "predicted_costs": 56821.89830662645,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-18",
-            "predicted_revenue": 119097.71670000005,
-            "predicted_costs": 71652.27509999998,
-            "predicted_profit": 47445.441600000064
+            "predicted_revenue": 58565.63394490344,
+            "predicted_costs": 58565.63394490344,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-19",
-            "predicted_revenue": 126146.99570000004,
-            "predicted_costs": 75804.88470000001,
-            "predicted_profit": 50342.11100000003
+            "predicted_revenue": 60278.38536503621,
+            "predicted_costs": 60278.38536503621,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-20",
-            "predicted_revenue": 122966.38750000004,
-            "predicted_costs": 73663.57662000004,
-            "predicted_profit": 49302.810880000005
+            "predicted_revenue": 56008.77534973509,
+            "predicted_costs": 56008.77534973509,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-21",
-            "predicted_revenue": 126105.15719999997,
-            "predicted_costs": 75673.78548,
-            "predicted_profit": 50431.37171999997
+            "predicted_revenue": 55945.84989641625,
+            "predicted_costs": 55945.84989641625,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-22",
-            "predicted_revenue": 128426.81940000001,
-            "predicted_costs": 76557.8832,
-            "predicted_profit": 51868.93620000001
+            "predicted_revenue": 58926.373215835105,
+            "predicted_costs": 58926.373215835105,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-23",
-            "predicted_revenue": 130230.91470000008,
-            "predicted_costs": 77452.56875999995,
-            "predicted_profit": 52778.34594000013
+            "predicted_revenue": 60737.290244161675,
+            "predicted_costs": 60737.290244161675,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-24",
-            "predicted_revenue": 130903.4242,
-            "predicted_costs": 78429.49889999999,
-            "predicted_profit": 52473.9253
+            "predicted_revenue": 62617.836981002816,
+            "predicted_costs": 62617.836981002816,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-25",
-            "predicted_revenue": 131888.76720000003,
-            "predicted_costs": 79452.53682000004,
-            "predicted_profit": 52436.23037999999
+            "predicted_revenue": 64360.903561626496,
+            "predicted_costs": 64360.903561626496,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-26",
-            "predicted_revenue": 137406.2728,
-            "predicted_costs": 81967.92041999998,
-            "predicted_profit": 55438.352380000026
+            "predicted_revenue": 66073.29029456523,
+            "predicted_costs": 66073.29029456523,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-27",
-            "predicted_revenue": 136057.9915,
-            "predicted_costs": 81315.88572,
-            "predicted_profit": 54742.10578
+            "predicted_revenue": 61803.48324598702,
+            "predicted_costs": 61803.48324598702,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-28",
-            "predicted_revenue": 140963.6855999999,
-            "predicted_costs": 83734.31795999994,
-            "predicted_profit": 57229.36763999997
+            "predicted_revenue": 61740.47241443315,
+            "predicted_costs": 61740.47241443315,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-29",
-            "predicted_revenue": 145353.3177,
-            "predicted_costs": 87008.05464,
-            "predicted_profit": 58345.26306000001
+            "predicted_revenue": 64720.95432777452,
+            "predicted_costs": 64720.95432777452,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-06-30",
-            "predicted_revenue": 145427.5577,
-            "predicted_costs": 86704.49862000001,
-            "predicted_profit": 58723.05907999999
+            "predicted_revenue": 66531.85858155394,
+            "predicted_costs": 66531.85858155394,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-01",
-            "predicted_revenue": 133433.9253,
-            "predicted_costs": 79231.02444,
-            "predicted_profit": 54202.90086000001
+            "predicted_revenue": 56344.33124860457,
+            "predicted_costs": 56344.33124860457,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-02",
-            "predicted_revenue": 121952.78330000011,
-            "predicted_costs": 73151.06664000005,
-            "predicted_profit": 48801.716660000064
+            "predicted_revenue": 54483.07283911278,
+            "predicted_costs": 54483.07283911278,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-03",
-            "predicted_revenue": 114977.45980000004,
-            "predicted_costs": 68955.00984000003,
-            "predicted_profit": 46022.44996000001
+            "predicted_revenue": 53429.455377859354,
+            "predicted_costs": 53429.455377859354,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-04",
-            "predicted_revenue": 113795.51340000004,
-            "predicted_costs": 68515.79808000004,
-            "predicted_profit": 45279.71532
+            "predicted_revenue": 47788.93606751458,
+            "predicted_costs": 47788.93606751458,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-05",
-            "predicted_revenue": 108686.10559999995,
-            "predicted_costs": 65044.77870000002,
-            "predicted_profit": 43641.326899999935
+            "predicted_revenue": 46877.3561217999,
+            "predicted_costs": 46877.3561217999,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-06",
-            "predicted_revenue": 111926.1893,
-            "predicted_costs": 66499.63824000001,
-            "predicted_profit": 45426.55105999998
+            "predicted_revenue": 49351.38639145087,
+            "predicted_costs": 49351.38639145087,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-07",
-            "predicted_revenue": 112457.11850000001,
-            "predicted_costs": 67482.57275999998,
-            "predicted_profit": 44974.54574000003
+            "predicted_revenue": 50826.57387385099,
+            "predicted_costs": 50826.57387385099,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-08",
-            "predicted_revenue": 114317.64530000002,
-            "predicted_costs": 68919.40680000001,
-            "predicted_profit": 45398.23850000001
+            "predicted_revenue": 52627.20493092685,
+            "predicted_costs": 52627.20493092685,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-09",
-            "predicted_revenue": 115557.86690000005,
-            "predicted_costs": 69200.70978000003,
-            "predicted_profit": 46357.15712000002
+            "predicted_revenue": 54316.96218238659,
+            "predicted_costs": 54316.96218238659,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-10",
-            "predicted_revenue": 116380.90710000007,
-            "predicted_costs": 69959.42646,
-            "predicted_profit": 46421.48064000007
+            "predicted_revenue": 56019.53604233897,
+            "predicted_costs": 56019.53604233897,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-11",
-            "predicted_revenue": 113500.32869999997,
-            "predicted_costs": 67377.54516000001,
-            "predicted_profit": 46122.78353999996
+            "predicted_revenue": 51747.06650076876,
+            "predicted_costs": 51747.06650076876,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-12",
-            "predicted_revenue": 111059.6887,
-            "predicted_costs": 66409.59467999998,
-            "predicted_profit": 44650.09402000002
+            "predicted_revenue": 51687.07308330514,
+            "predicted_costs": 51687.07308330514,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-13",
-            "predicted_revenue": 116918.09919999997,
-            "predicted_costs": 70170.15756000002,
-            "predicted_profit": 46747.941639999946
+            "predicted_revenue": 54671.52151106043,
+            "predicted_costs": 54671.52151106043,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-14",
-            "predicted_revenue": 118509.72919999999,
-            "predicted_costs": 71353.80408000003,
-            "predicted_profit": 47155.925119999956
+            "predicted_revenue": 56486.8807314023,
+            "predicted_costs": 56486.8807314023,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-15",
-            "predicted_revenue": 120878.85269999997,
-            "predicted_costs": 72491.87352,
-            "predicted_profit": 48386.97917999998
+            "predicted_revenue": 58369.89474927237,
+            "predicted_costs": 58369.89474927237,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-16",
-            "predicted_revenue": 126413.72639999996,
-            "predicted_costs": 75578.40294,
-            "predicted_profit": 50835.323459999956
+            "predicted_revenue": 60114.83516526928,
+            "predicted_costs": 60114.83516526928,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-17",
-            "predicted_revenue": 128871.13409999998,
-            "predicted_costs": 77129.00400000003,
-            "predicted_profit": 51742.13009999995
+            "predicted_revenue": 61828.255912648,
+            "predicted_costs": 61828.255912648,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-18",
-            "predicted_revenue": 126111.86839999996,
-            "predicted_costs": 76032.79847999997,
-            "predicted_profit": 50079.069919999994
+            "predicted_revenue": 57559.09402374022,
+            "predicted_costs": 57559.09402374022,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-19",
-            "predicted_revenue": 124600.35190000007,
-            "predicted_costs": 74508.44471999998,
-            "predicted_profit": 50091.90718000008
+            "predicted_revenue": 57496.433674112945,
+            "predicted_costs": 57496.433674112945,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-20",
-            "predicted_revenue": 127522.19949999997,
-            "predicted_costs": 76677.88128,
-            "predicted_profit": 50844.31821999997
+            "predicted_revenue": 60477.10418484668,
+            "predicted_costs": 60477.10418484668,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-21",
-            "predicted_revenue": 127613.51460000002,
-            "predicted_costs": 76442.39106,
-            "predicted_profit": 51171.12354000003
+            "predicted_revenue": 62288.08971656773,
+            "predicted_costs": 62288.08971656773,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-22",
-            "predicted_revenue": 126393.5423,
-            "predicted_costs": 75690.27900000001,
-            "predicted_profit": 50703.26329999999
+            "predicted_revenue": 64168.67221254258,
+            "predicted_costs": 64168.67221254258,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-23",
-            "predicted_revenue": 127455.68469999993,
-            "predicted_costs": 76752.73985999999,
-            "predicted_profit": 50702.94483999994
+            "predicted_revenue": 65911.75218133799,
+            "predicted_costs": 65911.75218133799,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-24",
-            "predicted_revenue": 131545.9703,
-            "predicted_costs": 79534.83354000002,
-            "predicted_profit": 52011.136759999965
+            "predicted_revenue": 67624.14435762494,
+            "predicted_costs": 67624.14435762494,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-25",
-            "predicted_revenue": 128461.98740000003,
-            "predicted_costs": 77325.5412,
-            "predicted_profit": 51136.44620000002
+            "predicted_revenue": 63354.33807537654,
+            "predicted_costs": 63354.33807537654,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-26",
-            "predicted_revenue": 130063.8117,
-            "predicted_costs": 77477.2965,
-            "predicted_profit": 52586.51520000001
+            "predicted_revenue": 63291.326482478566,
+            "predicted_costs": 63291.326482478566,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-27",
-            "predicted_revenue": 134442.4974999999,
-            "predicted_costs": 80204.35883999999,
-            "predicted_profit": 54238.138659999924
+            "predicted_revenue": 66271.80722342181,
+            "predicted_costs": 66271.80722342181,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-28",
-            "predicted_revenue": 134501.18409999995,
-            "predicted_costs": 80665.87824,
-            "predicted_profit": 53835.30585999995
+            "predicted_revenue": 68082.7105243139,
+            "predicted_costs": 68082.7105243139,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-29",
-            "predicted_revenue": 137787.07450000005,
-            "predicted_costs": 82654.55670000002,
-            "predicted_profit": 55132.51780000003
+            "predicted_revenue": 69963.25314061629,
+            "predicted_costs": 69963.25314061629,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-30",
-            "predicted_revenue": 140164.4239000001,
-            "predicted_costs": 83876.03783999998,
-            "predicted_profit": 56288.386060000135
+            "predicted_revenue": 71706.3208057892,
+            "predicted_costs": 71706.3208057892,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-07-31",
-            "predicted_revenue": 149658.41780000002,
-            "predicted_costs": 89641.91682,
-            "predicted_profit": 60016.500980000026
+            "predicted_revenue": 73418.7097271839,
+            "predicted_costs": 73418.7097271839,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-01",
-            "predicted_revenue": 133819.7551,
-            "predicted_costs": 78989.10989999998,
-            "predicted_profit": 54830.64520000003
+            "predicted_revenue": 56618.92562955693,
+            "predicted_costs": 56618.92562955693,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-02",
-            "predicted_revenue": 123424.6602000001,
-            "predicted_costs": 73658.32770000001,
-            "predicted_profit": 49766.33250000009
+            "predicted_revenue": 52813.63333096534,
+            "predicted_costs": 52813.63333096534,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-03",
-            "predicted_revenue": 123387.8701,
-            "predicted_costs": 74154.39264,
-            "predicted_profit": 49233.477459999995
+            "predicted_revenue": 52922.24009315297,
+            "predicted_costs": 52922.24009315297,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-04",
-            "predicted_revenue": 117729.0403,
-            "predicted_costs": 70671.12,
-            "predicted_profit": 47057.9203
+            "predicted_revenue": 53309.96589350278,
+            "predicted_costs": 53309.96589350278,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-05",
-            "predicted_revenue": 121511.80100000002,
-            "predicted_costs": 72921.32784000001,
-            "predicted_profit": 48590.47316000001
+            "predicted_revenue": 54309.4595664049,
+            "predicted_costs": 54309.4595664049,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-06",
-            "predicted_revenue": 119631.84569999999,
-            "predicted_costs": 72134.14830000002,
-            "predicted_profit": 47497.697399999975
+            "predicted_revenue": 55526.69045750361,
+            "predicted_costs": 55526.69045750361,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-07",
-            "predicted_revenue": 122966.85470000003,
-            "predicted_costs": 73742.56494000004,
-            "predicted_profit": 49224.289759999985
+            "predicted_revenue": 56890.51262116339,
+            "predicted_costs": 56890.51262116339,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-08",
-            "predicted_revenue": 115182.64909999998,
-            "predicted_costs": 69347.31408000004,
-            "predicted_profit": 45835.33501999994
+            "predicted_revenue": 52537.73664276488,
+            "predicted_costs": 52537.73664276488,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-09",
-            "predicted_revenue": 113123.3945,
-            "predicted_costs": 68131.94676,
-            "predicted_profit": 44991.44773999999
+            "predicted_revenue": 52419.3759452205,
+            "predicted_costs": 52419.3759452205,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-10",
-            "predicted_revenue": 124142.70440000002,
-            "predicted_costs": 74554.28693999996,
-            "predicted_profit": 49588.417460000055
+            "predicted_revenue": 55389.66790947587,
+            "predicted_costs": 55389.66790947587,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-11",
-            "predicted_revenue": 126519.42460000004,
-            "predicted_costs": 75865.62594,
-            "predicted_profit": 50653.798660000044
+            "predicted_revenue": 57197.80590971506,
+            "predicted_costs": 57197.80590971506,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-12",
-            "predicted_revenue": 126599.37710000001,
-            "predicted_costs": 75723.99204,
-            "predicted_profit": 50875.385060000015
+            "predicted_revenue": 59081.480792011665,
+            "predicted_costs": 59081.480792011665,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-13",
-            "predicted_revenue": 125332.5255,
-            "predicted_costs": 75724.21025999999,
-            "predicted_profit": 49608.31524000001
+            "predicted_revenue": 60828.666223828215,
+            "predicted_costs": 60828.666223828215,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-14",
-            "predicted_revenue": 128333.14419999998,
-            "predicted_costs": 76969.40063999999,
-            "predicted_profit": 51363.74355999999
+            "predicted_revenue": 62545.68028579632,
+            "predicted_costs": 62545.68028579632,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-15",
-            "predicted_revenue": 122221.20530000002,
-            "predicted_costs": 74263.78595999995,
-            "predicted_profit": 47957.419340000066
+            "predicted_revenue": 58278.44049711208,
+            "predicted_costs": 58278.44049711208,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-16",
-            "predicted_revenue": 122713.09929999997,
-            "predicted_costs": 73893.15659999999,
-            "predicted_profit": 48819.942699999985
+            "predicted_revenue": 58217.37511449989,
+            "predicted_costs": 58217.37511449989,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-17",
-            "predicted_revenue": 122993.00420000004,
-            "predicted_costs": 74165.30106000001,
-            "predicted_profit": 48827.70314000003
+            "predicted_revenue": 61198.929134113016,
+            "predicted_costs": 61198.929134113016,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-18",
-            "predicted_revenue": 127534.13020000001,
-            "predicted_costs": 76385.06208000002,
-            "predicted_profit": 51149.068119999996
+            "predicted_revenue": 63010.501388709075,
+            "predicted_costs": 63010.501388709075,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-19",
-            "predicted_revenue": 127631.33880000001,
-            "predicted_costs": 76006.39446000002,
-            "predicted_profit": 51624.94433999999
+            "predicted_revenue": 64891.40726164162,
+            "predicted_costs": 64891.40726164162,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-20",
-            "predicted_revenue": 128029.50369999996,
-            "predicted_costs": 77041.39583999998,
-            "predicted_profit": 50988.107859999975
+            "predicted_revenue": 66634.67017588449,
+            "predicted_costs": 66634.67017588449,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-21",
-            "predicted_revenue": 133783.18379999994,
-            "predicted_costs": 80232.34566,
-            "predicted_profit": 53550.838139999934
+            "predicted_revenue": 68347.14314528543,
+            "predicted_costs": 68347.14314528543,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-22",
-            "predicted_revenue": 129805.16540000001,
-            "predicted_costs": 77667.30234000001,
-            "predicted_profit": 52137.86306
+            "predicted_revenue": 64077.37876764722,
+            "predicted_costs": 64077.37876764722,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-23",
-            "predicted_revenue": 133087.48099999997,
-            "predicted_costs": 79423.85867999995,
-            "predicted_profit": 53663.622320000024
+            "predicted_revenue": 64014.38172877306,
+            "predicted_costs": 64014.38172877306,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-24",
-            "predicted_revenue": 135724.3727,
-            "predicted_costs": 80503.17330000001,
-            "predicted_profit": 55221.1994
+            "predicted_revenue": 66994.86780848938,
+            "predicted_costs": 66994.86780848938,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-25",
-            "predicted_revenue": 135498.6948,
-            "predicted_costs": 81393.28884,
-            "predicted_profit": 54105.405960000004
+            "predicted_revenue": 68805.77100543214,
+            "predicted_costs": 68805.77100543214,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-26",
-            "predicted_revenue": 138335.1102,
-            "predicted_costs": 83323.75871999998,
-            "predicted_profit": 55011.35148000001
+            "predicted_revenue": 70686.31219117064,
+            "predicted_costs": 70686.31219117064,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-27",
-            "predicted_revenue": 141823.26140000005,
-            "predicted_costs": 85956.89267999999,
-            "predicted_profit": 55866.36872000006
+            "predicted_revenue": 72429.37807213642,
+            "predicted_costs": 72429.37807213642,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-28",
-            "predicted_revenue": 148283.31809999997,
-            "predicted_costs": 88939.61124000001,
-            "predicted_profit": 59343.70685999996
+            "predicted_revenue": 74141.76566330231,
+            "predicted_costs": 74141.76566330231,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-29",
-            "predicted_revenue": 143417.26209999996,
-            "predicted_costs": 86385.72173999996,
-            "predicted_profit": 57031.54036
+            "predicted_revenue": 69871.95987958663,
+            "predicted_costs": 69871.95987958663,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-30",
-            "predicted_revenue": 143482.3476,
-            "predicted_costs": 86315.9847,
-            "predicted_profit": 57166.36290000001
+            "predicted_revenue": 69808.95006616533,
+            "predicted_costs": 69808.95006616533,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-08-31",
-            "predicted_revenue": 147062.38220000005,
-            "predicted_costs": 88202.37408000002,
-            "predicted_profit": 58860.00812000003
+            "predicted_revenue": 72789.43276640728,
+            "predicted_costs": 72789.43276640728,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-01",
-            "predicted_revenue": 135302.8504,
-            "predicted_costs": 80471.39832000002,
-            "predicted_profit": 54831.452079999974
+            "predicted_revenue": 62070.358205403434,
+            "predicted_costs": 62070.358205403434,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-02",
-            "predicted_revenue": 129266.36350000011,
-            "predicted_costs": 78139.20972000001,
-            "predicted_profit": 51127.153780000095
+            "predicted_revenue": 60208.61877741056,
+            "predicted_costs": 60208.61877741056,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-03",
-            "predicted_revenue": 126993.37610000008,
-            "predicted_costs": 76712.82282000004,
-            "predicted_profit": 50280.55328000004
+            "predicted_revenue": 59079.81076972338,
+            "predicted_costs": 59079.81076972338,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-04",
-            "predicted_revenue": 123955.48799999995,
-            "predicted_costs": 74687.86385999998,
-            "predicted_profit": 49267.62413999997
+            "predicted_revenue": 59369.02092451507,
+            "predicted_costs": 59369.02092451507,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-05",
-            "predicted_revenue": 119963.12370000001,
-            "predicted_costs": 71920.64154,
-            "predicted_profit": 48042.482160000014
+            "predicted_revenue": 54218.16624284314,
+            "predicted_costs": 54218.16624284314,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-06",
-            "predicted_revenue": 117434.32280000001,
-            "predicted_costs": 70691.53704,
-            "predicted_profit": 46742.78576000001
+            "predicted_revenue": 53629.31968295666,
+            "predicted_costs": 53629.31968295666,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-07",
-            "predicted_revenue": 122008.66780000001,
-            "predicted_costs": 73205.58252000003,
-            "predicted_profit": 48803.085279999985
+            "predicted_revenue": 56261.23564231418,
+            "predicted_costs": 56261.23564231418,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-08",
-            "predicted_revenue": 125124.67390000001,
-            "predicted_costs": 75324.02208000004,
-            "predicted_profit": 49800.65181999997
+            "predicted_revenue": 57989.1692098337,
+            "predicted_costs": 57989.1692098337,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-09",
-            "predicted_revenue": 126331.85200000003,
-            "predicted_costs": 75778.24578000001,
-            "predicted_profit": 50553.606220000016
+            "predicted_revenue": 59814.36138786425,
+            "predicted_costs": 59814.36138786425,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-10",
-            "predicted_revenue": 129517.68600000003,
-            "predicted_costs": 77838.61614000001,
-            "predicted_profit": 51679.06986000002
+            "predicted_revenue": 61547.23858464909,
+            "predicted_costs": 61547.23858464909,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-11",
-            "predicted_revenue": 131680.79880000002,
-            "predicted_costs": 79566.20076000002,
-            "predicted_profit": 52114.59804
+            "predicted_revenue": 63256.86094043709,
+            "predicted_costs": 63256.86094043709,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-12",
-            "predicted_revenue": 127059.57460000002,
-            "predicted_costs": 76319.25881999999,
-            "predicted_profit": 50740.31578000003
+            "predicted_revenue": 58990.18746857064,
+            "predicted_costs": 58990.18746857064,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-13",
-            "predicted_revenue": 126830.33500000002,
-            "predicted_costs": 76785.3822,
-            "predicted_profit": 50044.95280000003
+            "predicted_revenue": 58931.29544951693,
+            "predicted_costs": 58931.29544951693,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-14",
-            "predicted_revenue": 133137.63789999994,
-            "predicted_costs": 79789.85736000004,
-            "predicted_profit": 53347.780539999905
+            "predicted_revenue": 61916.403307166416,
+            "predicted_costs": 61916.403307166416,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-15",
-            "predicted_revenue": 134111.47879999995,
-            "predicted_costs": 80498.33538000003,
-            "predicted_profit": 53613.14341999992
+            "predicted_revenue": 63729.87306434868,
+            "predicted_costs": 63729.87306434868,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-16",
-            "predicted_revenue": 136900.57479999997,
-            "predicted_costs": 82213.98180000004,
-            "predicted_profit": 54686.592999999935
+            "predicted_revenue": 65612.36055725777,
+            "predicted_costs": 65612.36055725777,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-17",
-            "predicted_revenue": 137726.7898000001,
-            "predicted_costs": 83353.64261999998,
-            "predicted_profit": 54373.1471800001
+            "predicted_revenue": 67356.49980935862,
+            "predicted_costs": 67356.49980935862,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-18",
-            "predicted_revenue": 142214.21440000006,
-            "predicted_costs": 85261.78217999998,
-            "predicted_profit": 56952.432220000075
+            "predicted_revenue": 69069.55641947404,
+            "predicted_costs": 69069.55641947404,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-19",
-            "predicted_revenue": 144425.4586,
-            "predicted_costs": 86474.59194000001,
-            "predicted_profit": 57950.86666
+            "predicted_revenue": 64800.11393822481,
+            "predicted_costs": 64800.11393822481,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-20",
-            "predicted_revenue": 141573.73490000004,
-            "predicted_costs": 84937.34340000001,
-            "predicted_profit": 56636.39150000003
+            "predicted_revenue": 64737.29940158602,
+            "predicted_costs": 64737.29940158602,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-21",
-            "predicted_revenue": 141982.31309999997,
-            "predicted_costs": 85164.28404,
-            "predicted_profit": 56818.02905999997
+            "predicted_revenue": 67717.86616666187,
+            "predicted_costs": 67717.86616666187,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-22",
-            "predicted_revenue": 144796.43849999996,
-            "predicted_costs": 87067.78241999997,
-            "predicted_profit": 57728.656079999986
+            "predicted_revenue": 69528.81133488668,
+            "predicted_costs": 69528.81133488668,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-23",
-            "predicted_revenue": 145500.0623,
-            "predicted_costs": 87414.07146000004,
-            "predicted_profit": 58085.990839999955
+            "predicted_revenue": 71409.36717153205,
+            "predicted_costs": 71409.36717153205,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-24",
-            "predicted_revenue": 146676.652,
-            "predicted_costs": 88656.12306000004,
-            "predicted_profit": 58020.52893999996
+            "predicted_revenue": 73152.43848373527,
+            "predicted_costs": 73152.43848373527,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-25",
-            "predicted_revenue": 148803.9887,
-            "predicted_costs": 89952.14537999997,
-            "predicted_profit": 58851.843320000015
+            "predicted_revenue": 74864.82603619706,
+            "predicted_costs": 74864.82603619706,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-26",
-            "predicted_revenue": 152450.54510000005,
-            "predicted_costs": 90924.75449999998,
-            "predicted_profit": 61525.790600000066
+            "predicted_revenue": 70595.0188677537,
+            "predicted_costs": 70595.0188677537,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-27",
-            "predicted_revenue": 151399.51230000003,
-            "predicted_costs": 90232.73766000001,
-            "predicted_profit": 61166.77464000002
+            "predicted_revenue": 70532.0072978378,
+            "predicted_costs": 70532.0072978378,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-28",
-            "predicted_revenue": 152448.9831,
-            "predicted_costs": 91704.12084000003,
-            "predicted_profit": 60744.86225999998
+            "predicted_revenue": 73512.48868467865,
+            "predicted_costs": 73512.48868467865,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-29",
-            "predicted_revenue": 157311.4143,
-            "predicted_costs": 94610.62517999997,
-            "predicted_profit": 62700.78912000003
+            "predicted_revenue": 75323.39244682602,
+            "predicted_costs": 75323.39244682602,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-09-30",
-            "predicted_revenue": 160461.33769999995,
-            "predicted_costs": 97068.39366000002,
-            "predicted_profit": 63392.94403999993
+            "predicted_revenue": 77203.93550892427,
+            "predicted_costs": 77203.93550892427,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-01",
-            "predicted_revenue": 143891.68879999997,
-            "predicted_costs": 86145.12522,
-            "predicted_profit": 57746.56357999997
+            "predicted_revenue": 66878.93275133701,
+            "predicted_costs": 66878.93275133701,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-02",
-            "predicted_revenue": 137562.2049,
-            "predicted_costs": 82453.95366,
-            "predicted_profit": 55108.25124000001
+            "predicted_revenue": 64986.99531368334,
+            "predicted_costs": 64986.99531368334,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-03",
-            "predicted_revenue": 130088.43700000005,
-            "predicted_costs": 78403.05569999998,
-            "predicted_profit": 51685.38130000007
+            "predicted_revenue": 57951.18395104781,
+            "predicted_costs": 57951.18395104781,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-04",
-            "predicted_revenue": 132136.9000000001,
-            "predicted_costs": 79266.37620000001,
-            "predicted_profit": 52870.5238000001
+            "predicted_revenue": 56517.460119365365,
+            "predicted_costs": 56517.460119365365,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-05",
-            "predicted_revenue": 129768.46350000001,
-            "predicted_costs": 77769.08099999999,
-            "predicted_profit": 51999.38250000002
+            "predicted_revenue": 58649.372392045414,
+            "predicted_costs": 58649.372392045414,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-06",
-            "predicted_revenue": 128652.66970000001,
-            "predicted_costs": 77970.98280000001,
-            "predicted_profit": 50681.6869
+            "predicted_revenue": 59953.824510502374,
+            "predicted_costs": 59953.824510502374,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-07",
-            "predicted_revenue": 129452.72510000001,
-            "predicted_costs": 78091.89359999995,
-            "predicted_profit": 51360.83150000006
+            "predicted_revenue": 61498.650801221316,
+            "predicted_costs": 61498.650801221316,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-08",
-            "predicted_revenue": 129868.07049999999,
-            "predicted_costs": 78127.19304,
-            "predicted_profit": 51740.87745999999
+            "predicted_revenue": 63161.80643365928,
+            "predicted_costs": 63161.80643365928,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-09",
-            "predicted_revenue": 133344.5824,
-            "predicted_costs": 80072.72622,
-            "predicted_profit": 53271.85618000002
+            "predicted_revenue": 64820.88465695713,
+            "predicted_costs": 64820.88465695713,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-10",
-            "predicted_revenue": 127970.56120000001,
-            "predicted_costs": 76794.37878,
-            "predicted_profit": 51176.18242000001
+            "predicted_revenue": 60541.26461552742,
+            "predicted_costs": 60541.26461552742,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-11",
-            "predicted_revenue": 129515.29110000005,
-            "predicted_costs": 77839.09968,
-            "predicted_profit": 51676.19142000005
+            "predicted_revenue": 60475.590552619535,
+            "predicted_costs": 60475.590552619535,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-12",
-            "predicted_revenue": 134103.1168999999,
-            "predicted_costs": 80649.26279999997,
-            "predicted_profit": 53453.85409999994
+            "predicted_revenue": 63459.089353550655,
+            "predicted_costs": 63459.089353550655,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-13",
-            "predicted_revenue": 136522.5608,
-            "predicted_costs": 81766.47564,
-            "predicted_profit": 54756.08516
+            "predicted_revenue": 65273.95963011194,
+            "predicted_costs": 65273.95963011194,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-14",
-            "predicted_revenue": 139725.21610000002,
-            "predicted_costs": 83652.41291999999,
-            "predicted_profit": 56072.80318000003
+            "predicted_revenue": 67158.95765877263,
+            "predicted_costs": 67158.95765877263,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-15",
-            "predicted_revenue": 148513.86720000004,
-            "predicted_costs": 89334.01098,
-            "predicted_profit": 59179.85622000003
+            "predicted_revenue": 68904.4962520048,
+            "predicted_costs": 68904.4962520048,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-16",
-            "predicted_revenue": 151487.5959,
-            "predicted_costs": 90749.70048,
-            "predicted_profit": 60737.895419999986
+            "predicted_revenue": 70618.75763983982,
+            "predicted_costs": 70618.75763983982,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-17",
-            "predicted_revenue": 145827.86249999993,
-            "predicted_costs": 87495.98142000003,
-            "predicted_profit": 58331.881079999905
+            "predicted_revenue": 66349.98448583645,
+            "predicted_costs": 66349.98448583645,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-18",
-            "predicted_revenue": 142122.96850000002,
-            "predicted_costs": 85333.93086000001,
-            "predicted_profit": 56789.03764000001
+            "predicted_revenue": 66287.61807559099,
+            "predicted_costs": 66287.61807559099,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-19",
-            "predicted_revenue": 150017.8227999999,
-            "predicted_costs": 90044.00585999999,
-            "predicted_profit": 59973.81693999992
+            "predicted_revenue": 69268.44994435846,
+            "predicted_costs": 69268.44994435846,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-20",
-            "predicted_revenue": 153257.2181000001,
-            "predicted_costs": 92035.48026000004,
-            "predicted_profit": 61221.737840000045
+            "predicted_revenue": 71079.54230389818,
+            "predicted_costs": 71079.54230389818,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-21",
-            "predicted_revenue": 157314.6361,
-            "predicted_costs": 94066.37651999999,
-            "predicted_profit": 63248.25958000001
+            "predicted_revenue": 72960.16664393806,
+            "predicted_costs": 72960.16664393806,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-22",
-            "predicted_revenue": 158101.57479999994,
-            "predicted_costs": 95657.45748,
-            "predicted_profit": 62444.11731999995
+            "predicted_revenue": 74703.27371527502,
+            "predicted_costs": 74703.27371527502,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-23",
-            "predicted_revenue": 164241.09759999995,
-            "predicted_costs": 98143.63500000002,
-            "predicted_profit": 66097.46259999993
+            "predicted_revenue": 76415.67465590854,
+            "predicted_costs": 76415.67465590854,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-24",
-            "predicted_revenue": 155106.13509999993,
-            "predicted_costs": 92469.54617999998,
-            "predicted_profit": 62636.58891999995
+            "predicted_revenue": 72145.8729308134,
+            "predicted_costs": 72145.8729308134,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-25",
-            "predicted_revenue": 152418.99929999997,
-            "predicted_costs": 91758.85062000001,
-            "predicted_profit": 60660.148679999955
+            "predicted_revenue": 72082.86212722732,
+            "predicted_costs": 72082.86212722732,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-26",
-            "predicted_revenue": 157456.5911999999,
-            "predicted_costs": 95831.11547999998,
-            "predicted_profit": 61625.47571999993
+            "predicted_revenue": 75063.34275272407,
+            "predicted_costs": 75063.34275272407,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-27",
-            "predicted_revenue": 168832.7179999999,
-            "predicted_costs": 101277.86412000003,
-            "predicted_profit": 67554.85387999988
+            "predicted_revenue": 76874.24534247331,
+            "predicted_costs": 76874.24534247331,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-28",
-            "predicted_revenue": 164716.43099999995,
-            "predicted_costs": 99036.53886000007,
-            "predicted_profit": 65679.89213999988
+            "predicted_revenue": 78754.78745168423,
+            "predicted_costs": 78754.78745168423,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-29",
-            "predicted_revenue": 166003.60659999994,
-            "predicted_costs": 100502.10612,
-            "predicted_profit": 65501.500479999944
+            "predicted_revenue": 80497.85464334872,
+            "predicted_costs": 80497.85464334872,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-30",
-            "predicted_revenue": 173100.94039999996,
-            "predicted_costs": 103100.21399999995,
-            "predicted_profit": 70000.72640000001
+            "predicted_revenue": 82210.24328035976,
+            "predicted_costs": 82210.24328035976,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-10-31",
-            "predicted_revenue": 166146.1033,
-            "predicted_costs": 99713.02853999997,
-            "predicted_profit": 66433.07476000002
+            "predicted_revenue": 77940.43830037235,
+            "predicted_costs": 77940.43830037235,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-01",
-            "predicted_revenue": 147283.2382,
-            "predicted_costs": 88823.61731999993,
-            "predicted_profit": 58459.62088000006
+            "predicted_revenue": 65347.44968140771,
+            "predicted_costs": 65347.44968140771,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-02",
-            "predicted_revenue": 145967.38319999987,
-            "predicted_costs": 87932.51694000007,
-            "predicted_profit": 58034.86625999979
+            "predicted_revenue": 64585.64960121085,
+            "predicted_costs": 64585.64960121085,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-03",
-            "predicted_revenue": 140091.10929999995,
-            "predicted_costs": 83937.28404000003,
-            "predicted_profit": 56153.825259999925
+            "predicted_revenue": 63524.678212204475,
+            "predicted_costs": 63524.678212204475,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-04",
-            "predicted_revenue": 136534.9976,
-            "predicted_costs": 81971.71559999998,
-            "predicted_profit": 54563.28200000002
+            "predicted_revenue": 63982.04282087311,
+            "predicted_costs": 63982.04282087311,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-05",
-            "predicted_revenue": 137042.66360000006,
-            "predicted_costs": 82148.44794000004,
-            "predicted_profit": 54894.215660000016
+            "predicted_revenue": 64844.06106913734,
+            "predicted_costs": 64844.06106913734,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-06",
-            "predicted_revenue": 136468.66950000008,
-            "predicted_costs": 81963.24648,
-            "predicted_profit": 54505.423020000075
+            "predicted_revenue": 66030.61293207416,
+            "predicted_costs": 66030.61293207416,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-07",
-            "predicted_revenue": 134034.3785000001,
-            "predicted_costs": 80239.25850000001,
-            "predicted_profit": 53795.1200000001
+            "predicted_revenue": 61412.241194351845,
+            "predicted_costs": 61412.241194351845,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-08",
-            "predicted_revenue": 133334.34820000004,
-            "predicted_costs": 80066.76078,
-            "predicted_profit": 53267.58742000004
+            "predicted_revenue": 61266.26069461566,
+            "predicted_costs": 61266.26069461566,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-09",
-            "predicted_revenue": 137519.15570000003,
-            "predicted_costs": 82695.11340000002,
-            "predicted_profit": 54824.042300000016
+            "predicted_revenue": 64191.392215466,
+            "predicted_costs": 64191.392215466,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-10",
-            "predicted_revenue": 135540.79940000008,
-            "predicted_costs": 81414.66978,
-            "predicted_profit": 54126.12962000008
+            "predicted_revenue": 65992.10602852739,
+            "predicted_costs": 65992.10602852739,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-11",
-            "predicted_revenue": 140830.51050000003,
-            "predicted_costs": 84470.95800000004,
-            "predicted_profit": 56359.55249999999
+            "predicted_revenue": 67869.8828370854,
+            "predicted_costs": 67869.8828370854,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-12",
-            "predicted_revenue": 146373.59520000004,
-            "predicted_costs": 87893.41181999998,
-            "predicted_profit": 58480.18338000006
+            "predicted_revenue": 69616.0822947441,
+            "predicted_costs": 69616.0822947441,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-13",
-            "predicted_revenue": 147191.68869999997,
-            "predicted_costs": 88869.75245999997,
-            "predicted_profit": 58321.936239999995
+            "predicted_revenue": 71332.58869839877,
+            "predicted_costs": 71332.58869839877,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-14",
-            "predicted_revenue": 147506.22489999994,
-            "predicted_costs": 88945.83605999999,
-            "predicted_profit": 58560.388839999956
+            "predicted_revenue": 67067.40885898478,
+            "predicted_costs": 67067.40885898478,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-15",
-            "predicted_revenue": 146011.74539999996,
-            "predicted_costs": 87330.56183999998,
-            "predicted_profit": 58681.183559999976
+            "predicted_revenue": 67006.96454896286,
+            "predicted_costs": 67006.96454896286,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-16",
-            "predicted_revenue": 151935.19779999988,
-            "predicted_costs": 91041.24887999998,
-            "predicted_profit": 60893.94891999989
+            "predicted_revenue": 69989.39138474541,
+            "predicted_costs": 69989.39138474541,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-17",
-            "predicted_revenue": 156748.2719,
-            "predicted_costs": 93337.33626,
-            "predicted_profit": 63410.935639999996
+            "predicted_revenue": 71801.36725316453,
+            "predicted_costs": 71801.36725316453,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-18",
-            "predicted_revenue": 158843.82609999998,
-            "predicted_costs": 95136.95268000002,
-            "predicted_profit": 63706.87341999996
+            "predicted_revenue": 73682.57831607941,
+            "predicted_costs": 73682.57831607941,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-19",
-            "predicted_revenue": 163827.93669999993,
-            "predicted_costs": 98500.99973999997,
-            "predicted_profit": 65326.93695999996
+            "predicted_revenue": 75426.00876437406,
+            "predicted_costs": 75426.00876437406,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-20",
-            "predicted_revenue": 162493.53830000004,
-            "predicted_costs": 97827.25751999997,
-            "predicted_profit": 64666.280780000074
+            "predicted_revenue": 77138.59265045504,
+            "predicted_costs": 77138.59265045504,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-21",
-            "predicted_revenue": 153236.93599999993,
-            "predicted_costs": 91546.37298000003,
-            "predicted_profit": 61690.5630199999
+            "predicted_revenue": 72868.87171847388,
+            "predicted_costs": 72868.87171847388,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-22",
-            "predicted_revenue": 149369.18499999988,
-            "predicted_costs": 89540.56674000004,
-            "predicted_profit": 59828.61825999984
+            "predicted_revenue": 72805.90281949799,
+            "predicted_costs": 72805.90281949799,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-23",
-            "predicted_revenue": 158955.2620999999,
-            "predicted_costs": 94903.86996,
-            "predicted_profit": 64051.39213999991
+            "predicted_revenue": 75786.39799901858,
+            "predicted_costs": 75786.39799901858,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-24",
-            "predicted_revenue": 159165.98389999988,
-            "predicted_costs": 95580.7854,
-            "predicted_profit": 63585.19849999988
+            "predicted_revenue": 77597.30592754089,
+            "predicted_costs": 77597.30592754089,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-25",
-            "predicted_revenue": 159825.2801,
-            "predicted_costs": 95228.89434,
-            "predicted_profit": 64596.385760000005
+            "predicted_revenue": 79477.84793280247,
+            "predicted_costs": 79477.84793280247,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-26",
-            "predicted_revenue": 160800.76029999994,
-            "predicted_costs": 96245.60213999997,
-            "predicted_profit": 64555.15815999996
+            "predicted_revenue": 81220.91369390307,
+            "predicted_costs": 81220.91369390307,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-27",
-            "predicted_revenue": 168105.13199999993,
-            "predicted_costs": 100780.11024000008,
-            "predicted_profit": 67325.02175999984
+            "predicted_revenue": 82933.30054670697,
+            "predicted_costs": 82933.30054670697,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-28",
-            "predicted_revenue": 159259.2285,
-            "predicted_costs": 95997.35472000003,
-            "predicted_profit": 63261.873779999965
+            "predicted_revenue": 78663.49423649078,
+            "predicted_costs": 78663.49423649078,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-29",
-            "predicted_revenue": 160470.71490000005,
-            "predicted_costs": 95868.04337999994,
-            "predicted_profit": 64602.671520000105
+            "predicted_revenue": 78600.48393143741,
+            "predicted_costs": 78600.48393143741,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-11-30",
-            "predicted_revenue": 164408.79310000007,
-            "predicted_costs": 98461.00979999999,
-            "predicted_profit": 65947.78330000008
+            "predicted_revenue": 81580.96633641084,
+            "predicted_costs": 81580.96633641084,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-01",
-            "predicted_revenue": 141783.9027999999,
-            "predicted_costs": 84636.58524000004,
-            "predicted_profit": 57147.31755999985
+            "predicted_revenue": 71323.80019514264,
+            "predicted_costs": 71323.80019514264,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-02",
-            "predicted_revenue": 142685.35509999996,
-            "predicted_costs": 85715.85750000001,
-            "predicted_profit": 56969.497599999944
+            "predicted_revenue": 69600.01721028876,
+            "predicted_costs": 69600.01721028876,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-03",
-            "predicted_revenue": 132436.46779999995,
-            "predicted_costs": 79937.55239999999,
-            "predicted_profit": 52498.91539999997
+            "predicted_revenue": 68577.0787771972,
+            "predicted_costs": 68577.0787771972,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-04",
-            "predicted_revenue": 138857.80360000007,
-            "predicted_costs": 83556.79230000007,
-            "predicted_profit": 55301.0113
+            "predicted_revenue": 68918.75336823454,
+            "predicted_costs": 68918.75336823454,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-05",
-            "predicted_revenue": 134560.81610000005,
-            "predicted_costs": 80820.74994,
-            "predicted_profit": 53740.06616000006
+            "predicted_revenue": 63800.37794385753,
+            "predicted_costs": 63800.37794385753,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-06",
-            "predicted_revenue": 132411.90580000012,
-            "predicted_costs": 79322.19462,
-            "predicted_profit": 53089.71118000013
+            "predicted_revenue": 63230.91599511376,
+            "predicted_costs": 63230.91599511376,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-07",
-            "predicted_revenue": 135714.37290000007,
-            "predicted_costs": 81216.08549999999,
-            "predicted_profit": 54498.28740000009
+            "predicted_revenue": 65875.68162870788,
+            "predicted_costs": 65875.68162870788,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-08",
-            "predicted_revenue": 133995.5952,
-            "predicted_costs": 80647.34753999997,
-            "predicted_profit": 53348.24766000004
+            "predicted_revenue": 67606.67387746491,
+            "predicted_costs": 67606.67387746491,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-09",
-            "predicted_revenue": 137044.7057,
-            "predicted_costs": 82370.94227999997,
-            "predicted_profit": 54673.76342000002
+            "predicted_revenue": 69433.90655356256,
+            "predicted_costs": 69433.90655356256,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-10",
-            "predicted_revenue": 137732.66410000005,
-            "predicted_costs": 82980.60090000002,
-            "predicted_profit": 54752.06320000003
+            "predicted_revenue": 71167.15944167682,
+            "predicted_costs": 71167.15944167682,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-11",
-            "predicted_revenue": 143077.81880000004,
-            "predicted_costs": 86079.01403999998,
-            "predicted_profit": 56998.80476000006
+            "predicted_revenue": 72876.8838014887,
+            "predicted_costs": 72876.8838014887,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-12",
-            "predicted_revenue": 146421.18150000004,
-            "predicted_costs": 87945.23051999997,
-            "predicted_profit": 58475.95098000007
+            "predicted_revenue": 68610.09490536277,
+            "predicted_costs": 68610.09490536277,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-13",
-            "predicted_revenue": 144316.2933,
-            "predicted_costs": 86645.47421999999,
-            "predicted_profit": 57670.81908
+            "predicted_revenue": 68551.05111472333,
+            "predicted_costs": 68551.05111472333,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-14",
-            "predicted_revenue": 150112.9885,
-            "predicted_costs": 90359.99369999999,
-            "predicted_profit": 59752.994800000015
+            "predicted_revenue": 71535.9884862592,
+            "predicted_costs": 71535.9884862592,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-15",
-            "predicted_revenue": 152593.19340000002,
-            "predicted_costs": 90987.03468000003,
-            "predicted_profit": 61606.15871999999
+            "predicted_revenue": 73349.36369581045,
+            "predicted_costs": 73349.36369581045,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-16",
-            "predicted_revenue": 158697.83949999997,
-            "predicted_costs": 94320.70163999993,
-            "predicted_profit": 64377.137860000046
+            "predicted_revenue": 75231.77953644525,
+            "predicted_costs": 75231.77953644525,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-17",
-            "predicted_revenue": 160123.98829999997,
-            "predicted_costs": 96235.87242,
-            "predicted_profit": 63888.11587999997
+            "predicted_revenue": 76975.87931198585,
+            "predicted_costs": 76975.87931198585,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-18",
-            "predicted_revenue": 165169.73080000002,
-            "predicted_costs": 99183.58151999995,
-            "predicted_profit": 65986.14928000007
+            "predicted_revenue": 78688.91132446016,
+            "predicted_costs": 78688.91132446016,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-19",
-            "predicted_revenue": 155943.74759999992,
-            "predicted_costs": 93454.75602000003,
-            "predicted_profit": 62488.991579999885
+            "predicted_revenue": 74419.45549617057,
+            "predicted_costs": 74419.45549617057,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-20",
-            "predicted_revenue": 149742.30979999996,
-            "predicted_costs": 90732.33696000006,
-            "predicted_profit": 59009.9728399999
+            "predicted_revenue": 74356.63378850957,
+            "predicted_costs": 74356.63378850957,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-21",
-            "predicted_revenue": 155775.8166,
-            "predicted_costs": 93993.15390000005,
-            "predicted_profit": 61782.66269999994
+            "predicted_revenue": 77337.19747142463,
+            "predicted_costs": 77337.19747142463,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-22",
-            "predicted_revenue": 158411.7145,
-            "predicted_costs": 94812.20087999999,
-            "predicted_profit": 63599.51362000001
+            "predicted_revenue": 79148.14115908065,
+            "predicted_costs": 79148.14115908065,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-23",
-            "predicted_revenue": 158945.65559999997,
-            "predicted_costs": 95926.99050000003,
-            "predicted_profit": 63018.66509999994
+            "predicted_revenue": 81028.69655251397,
+            "predicted_costs": 81028.69655251397,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-24",
-            "predicted_revenue": 156414.4552,
-            "predicted_costs": 94090.51193999994,
-            "predicted_profit": 62323.94326000006
+            "predicted_revenue": 82771.7677569628,
+            "predicted_costs": 82771.7677569628,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-25",
-            "predicted_revenue": 162401.85979999998,
-            "predicted_costs": 97735.40298,
-            "predicted_profit": 64666.45681999998
+            "predicted_revenue": 84484.15537609649,
+            "predicted_costs": 84484.15537609649,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-26",
-            "predicted_revenue": 155518.3841,
-            "predicted_costs": 93349.77593999995,
-            "predicted_profit": 62168.60816000005
+            "predicted_revenue": 80214.3483045362,
+            "predicted_costs": 80214.3483045362,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-27",
-            "predicted_revenue": 158784.09139999998,
-            "predicted_costs": 95332.72812000001,
-            "predicted_profit": 63451.36327999996
+            "predicted_revenue": 80151.3368270847,
+            "predicted_costs": 80151.3368270847,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-28",
-            "predicted_revenue": 164325.28369999994,
-            "predicted_costs": 99013.66638000001,
-            "predicted_profit": 65311.61731999993
+            "predicted_revenue": 83131.8182791708,
+            "predicted_costs": 83131.8182791708,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-29",
-            "predicted_revenue": 167095.04189999995,
-            "predicted_costs": 100494.32502000006,
-            "predicted_profit": 66600.71687999989
+            "predicted_revenue": 84942.72208715435,
+            "predicted_costs": 84942.72208715435,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-30",
-            "predicted_revenue": 165691.69520000002,
-            "predicted_costs": 99423.98705999997,
-            "predicted_profit": 66267.70814000005
+            "predicted_revenue": 86823.26517696517,
+            "predicted_costs": 86823.26517696517,
+            "predicted_profit": 0.0
         },
         {
             "date": "2026-12-31",
-            "predicted_revenue": 168930.7609,
-            "predicted_costs": 101307.11129999995,
-            "predicted_profit": 67623.64960000005
+            "predicted_revenue": 88566.33312652174,
+            "predicted_costs": 88566.33312652174,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-01",
-            "predicted_revenue": 131094.45000000004,
-            "predicted_costs": 78813.16998000005,
-            "predicted_profit": 52281.28001999999
+            "predicted_revenue": 56278.48601028889,
+            "predicted_costs": 56278.48601028889,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-02",
-            "predicted_revenue": 114199.79600000013,
-            "predicted_costs": 68657.26404,
-            "predicted_profit": 45542.53196000014
+            "predicted_revenue": 41853.95510140111,
+            "predicted_costs": 41853.95510140111,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-03",
-            "predicted_revenue": 104499.75960000008,
-            "predicted_costs": 61797.69954,
-            "predicted_profit": 42702.060060000076
+            "predicted_revenue": 33998.078065416106,
+            "predicted_costs": 33998.078065416106,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-04",
-            "predicted_revenue": 94229.71969999996,
-            "predicted_costs": 56416.344060000025,
-            "predicted_profit": 37813.37563999993
+            "predicted_revenue": 33116.74889524768,
+            "predicted_costs": 33116.74889524768,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-05",
-            "predicted_revenue": 92622.81439999997,
-            "predicted_costs": 55557.970620000015,
-            "predicted_profit": 37064.84377999996
+            "predicted_revenue": 32536.914702207687,
+            "predicted_costs": 32536.914702207687,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-06",
-            "predicted_revenue": 89503.05410000001,
-            "predicted_costs": 53420.10575999999,
-            "predicted_profit": 36082.94834000002
+            "predicted_revenue": 32990.592704980445,
+            "predicted_costs": 32990.592704980445,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-07",
-            "predicted_revenue": 79212.99099999997,
-            "predicted_costs": 47914.325099999995,
-            "predicted_profit": 31298.66589999997
+            "predicted_revenue": 33787.82018183045,
+            "predicted_costs": 33787.82018183045,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-08",
-            "predicted_revenue": 77244.4811,
-            "predicted_costs": 46035.10932000001,
-            "predicted_profit": 31209.371779999994
+            "predicted_revenue": 35275.06563364567,
+            "predicted_costs": 35275.06563364567,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-09",
-            "predicted_revenue": 74510.43620000003,
-            "predicted_costs": 44414.62853999998,
-            "predicted_profit": 30095.807660000042
+            "predicted_revenue": 30855.06382009488,
+            "predicted_costs": 30855.06382009488,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-10",
-            "predicted_revenue": 72229.29990000003,
-            "predicted_costs": 42812.68248000002,
-            "predicted_profit": 29416.61742000001
+            "predicted_revenue": 30764.40084404125,
+            "predicted_costs": 30764.40084404125,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-11",
-            "predicted_revenue": 74109.76679999998,
-            "predicted_costs": 44343.57083999998,
-            "predicted_profit": 29766.195960000005
+            "predicted_revenue": 33737.37570025024,
+            "predicted_costs": 33737.37570025024,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-12",
-            "predicted_revenue": 76991.90260000002,
-            "predicted_costs": 46261.775939999985,
-            "predicted_profit": 30730.12666000003
+            "predicted_revenue": 35556.77689350278,
+            "predicted_costs": 35556.77689350278,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-13",
-            "predicted_revenue": 79912.95300000004,
-            "predicted_costs": 47892.996900000006,
-            "predicted_profit": 32019.956100000032
+            "predicted_revenue": 37448.49234709306,
+            "predicted_costs": 37448.49234709306,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-14",
-            "predicted_revenue": 80549.91840000002,
-            "predicted_costs": 48434.028659999996,
-            "predicted_profit": 32115.889740000028
+            "predicted_revenue": 39204.10991266719,
+            "predicted_costs": 39204.10991266719,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-15",
-            "predicted_revenue": 82602.39850000007,
-            "predicted_costs": 49500.05772000001,
-            "predicted_profit": 33102.34078000006
+            "predicted_revenue": 40923.458755284846,
+            "predicted_costs": 40923.458755284846,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-16",
-            "predicted_revenue": 81521.58330000006,
-            "predicted_costs": 49045.66571999999,
-            "predicted_profit": 32475.917580000067
+            "predicted_revenue": 36658.928409315675,
+            "predicted_costs": 36658.928409315675,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-17",
-            "predicted_revenue": 79129.25520000004,
-            "predicted_costs": 47485.32186,
-            "predicted_profit": 31643.933340000047
+            "predicted_revenue": 36598.82514580611,
+            "predicted_costs": 36598.82514580611,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-18",
-            "predicted_revenue": 83103.50220000003,
-            "predicted_costs": 49963.00451999999,
-            "predicted_profit": 33140.497680000044
+            "predicted_revenue": 39581.118890179176,
+            "predicted_costs": 39581.118890179176,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-19",
-            "predicted_revenue": 83396.70120000002,
-            "predicted_costs": 50242.592339999996,
-            "predicted_profit": 33154.10886000003
+            "predicted_revenue": 41393.006347005336,
+            "predicted_costs": 41393.006347005336,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-20",
-            "predicted_revenue": 85658.08910000003,
-            "predicted_costs": 51708.64668,
-            "predicted_profit": 33949.44242000003
+            "predicted_revenue": 43274.07800666844,
+            "predicted_costs": 43274.07800666844,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-21",
-            "predicted_revenue": 90686.79089999995,
-            "predicted_costs": 54429.58001999999,
-            "predicted_profit": 36257.21087999996
+            "predicted_revenue": 45017.373268067706,
+            "predicted_costs": 45017.373268067706,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-22",
-            "predicted_revenue": 86755.21720000001,
-            "predicted_costs": 51959.75729999996,
-            "predicted_profit": 34795.45990000005
+            "predicted_revenue": 46729.871611038616,
+            "predicted_costs": 46729.871611038616,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-23",
-            "predicted_revenue": 85675.13540000003,
-            "predicted_costs": 51525.61835999997,
-            "predicted_profit": 34149.51704000006
+            "predicted_revenue": 42460.09969470468,
+            "predicted_costs": 42460.09969470468,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-24",
-            "predicted_revenue": 87288.64719999999,
-            "predicted_costs": 52492.87343999999,
-            "predicted_profit": 34795.773760000004
+            "predicted_revenue": 42397.09856461413,
+            "predicted_costs": 42397.09856461413,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-25",
-            "predicted_revenue": 86419.28430000001,
-            "predicted_costs": 52012.61759999999,
-            "predicted_profit": 34406.66670000002
+            "predicted_revenue": 45377.576813725,
+            "predicted_costs": 45377.576813725,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-26",
-            "predicted_revenue": 86362.13309999999,
-            "predicted_costs": 52052.42993999998,
-            "predicted_profit": 34309.70316000001
+            "predicted_revenue": 47188.47468785679,
+            "predicted_costs": 47188.47468785679,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-27",
-            "predicted_revenue": 86031.5719,
-            "predicted_costs": 51803.465399999994,
-            "predicted_profit": 34228.1065
+            "predicted_revenue": 49069.01169556272,
+            "predicted_costs": 49069.01169556272,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-28",
-            "predicted_revenue": 88295.89409999998,
-            "predicted_costs": 53157.26856000002,
-            "predicted_profit": 35138.62553999996
+            "predicted_revenue": 50812.075282184036,
+            "predicted_costs": 50812.075282184036,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-29",
-            "predicted_revenue": 87575.23739999998,
-            "predicted_costs": 52384.15067999999,
-            "predicted_profit": 35191.08671999999
+            "predicted_revenue": 52524.46126930835,
+            "predicted_costs": 52524.46126930835,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-30",
-            "predicted_revenue": 86381.4848,
-            "predicted_costs": 51791.337299999985,
-            "predicted_profit": 34590.14750000002
+            "predicted_revenue": 48254.65468909952,
+            "predicted_costs": 48254.65468909952,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-01-31",
-            "predicted_revenue": 85028.30350000004,
-            "predicted_costs": 51019.86972,
-            "predicted_profit": 34008.433780000036
+            "predicted_revenue": 48191.64438876734,
+            "predicted_costs": 48191.64438876734,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-01",
-            "predicted_revenue": 73017.03789999998,
-            "predicted_costs": 43882.60091999999,
-            "predicted_profit": 29134.43697999999
+            "predicted_revenue": 38642.147549470785,
+            "predicted_costs": 38642.147549470785,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-02",
-            "predicted_revenue": 72333.8057,
-            "predicted_costs": 43416.06084,
-            "predicted_profit": 28917.74486
+            "predicted_revenue": 36710.76908443019,
+            "predicted_costs": 36710.76908443019,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-03",
-            "predicted_revenue": 73155.9379,
-            "predicted_costs": 43832.25864,
-            "predicted_profit": 29323.679260000004
+            "predicted_revenue": 35719.4363916035,
+            "predicted_costs": 35719.4363916035,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-04",
-            "predicted_revenue": 74035.68840000001,
-            "predicted_costs": 44508.673499999975,
-            "predicted_profit": 29527.01490000004
+            "predicted_revenue": 36039.32552448875,
+            "predicted_costs": 36039.32552448875,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-05",
-            "predicted_revenue": 75597.96440000003,
-            "predicted_costs": 45387.428040000006,
-            "predicted_profit": 30210.53636000002
+            "predicted_revenue": 36870.66472596996,
+            "predicted_costs": 36870.66472596996,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-06",
-            "predicted_revenue": 73986.57590000004,
-            "predicted_costs": 44174.74787999999,
-            "predicted_profit": 29811.82802000005
+            "predicted_revenue": 32075.022682608746,
+            "predicted_costs": 32075.022682608746,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-07",
-            "predicted_revenue": 75062.21400000004,
-            "predicted_costs": 45006.371099999975,
-            "predicted_profit": 30055.84290000006
+            "predicted_revenue": 31663.44642463076,
+            "predicted_costs": 31663.44642463076,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-08",
-            "predicted_revenue": 77437.91299999999,
-            "predicted_costs": 46304.01257999997,
-            "predicted_profit": 31133.900420000013
+            "predicted_revenue": 34560.95814589951,
+            "predicted_costs": 34560.95814589951,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-09",
-            "predicted_revenue": 76805.68509999999,
-            "predicted_costs": 46300.376879999974,
-            "predicted_profit": 30505.308220000014
+            "predicted_revenue": 36316.511518185725,
+            "predicted_costs": 36316.511518185725,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-10",
-            "predicted_revenue": 76457.2532,
-            "predicted_costs": 45862.39584,
-            "predicted_profit": 30594.85736000001
+            "predicted_revenue": 38186.8641415854,
+            "predicted_costs": 38186.8641415854,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-11",
-            "predicted_revenue": 77221.90969999997,
-            "predicted_costs": 46221.672,
-            "predicted_profit": 31000.237699999976
+            "predicted_revenue": 39927.16552691849,
+            "predicted_costs": 39927.16552691849,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-12",
-            "predicted_revenue": 76986.2792,
-            "predicted_costs": 46351.929899999996,
-            "predicted_profit": 30634.34930000001
+            "predicted_revenue": 41642.685957309455,
+            "predicted_costs": 41642.685957309455,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-13",
-            "predicted_revenue": 76161.14080000002,
-            "predicted_costs": 45816.71262,
-            "predicted_profit": 30344.428180000024
+            "predicted_revenue": 37376.99846012329,
+            "predicted_costs": 37376.99846012329,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-14",
-            "predicted_revenue": 76403.65230000003,
-            "predicted_costs": 46542.953220000025,
-            "predicted_profit": 29860.699080000006
+            "predicted_revenue": 37318.61409967648,
+            "predicted_costs": 37318.61409967648,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-15",
-            "predicted_revenue": 79843.7844,
-            "predicted_costs": 48104.5431,
-            "predicted_profit": 31739.2413
+            "predicted_revenue": 40301.662008213294,
+            "predicted_costs": 40301.662008213294,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-16",
-            "predicted_revenue": 81841.39380000005,
-            "predicted_costs": 49326.95453999999,
-            "predicted_profit": 32514.439260000057
+            "predicted_revenue": 42114.51069288353,
+            "predicted_costs": 42114.51069288353,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-17",
-            "predicted_revenue": 83565.34360000005,
-            "predicted_costs": 50384.36358000001,
-            "predicted_profit": 33180.98002000004
+            "predicted_revenue": 43996.125369659254,
+            "predicted_costs": 43996.125369659254,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-18",
-            "predicted_revenue": 84386.18970000003,
-            "predicted_costs": 50904.34296000001,
-            "predicted_profit": 33481.84674000002
+            "predicted_revenue": 45739.86100795125,
+            "predicted_costs": 45739.86100795125,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-19",
-            "predicted_revenue": 88695.85599999993,
-            "predicted_costs": 53270.307599999986,
-            "predicted_profit": 35425.54839999994
+            "predicted_revenue": 47452.61242808854,
+            "predicted_costs": 47452.61242808854,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-20",
-            "predicted_revenue": 87257.15569999996,
-            "predicted_costs": 51949.37831999997,
-            "predicted_profit": 35307.77737999999
+            "predicted_revenue": 43183.00241278746,
+            "predicted_costs": 43183.00241278746,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-21",
-            "predicted_revenue": 86435.72709999999,
-            "predicted_costs": 51749.438999999955,
-            "predicted_profit": 34686.288100000034
+            "predicted_revenue": 43120.07695946722,
+            "predicted_costs": 43120.07695946722,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-22",
-            "predicted_revenue": 88875.67830000001,
-            "predicted_costs": 52742.25821999998,
-            "predicted_profit": 36133.42008000003
+            "predicted_revenue": 46100.60027888449,
+            "predicted_costs": 46100.60027888449,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-23",
-            "predicted_revenue": 85882.3839,
-            "predicted_costs": 51167.27339999999,
-            "predicted_profit": 34715.11050000001
+            "predicted_revenue": 47911.51730720978,
+            "predicted_costs": 47911.51730720978,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-24",
-            "predicted_revenue": 87395.0155,
-            "predicted_costs": 52976.110499999995,
-            "predicted_profit": 34418.905
+            "predicted_revenue": 49792.06404405,
+            "predicted_costs": 49792.06404405,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-25",
-            "predicted_revenue": 86496.33259999998,
-            "predicted_costs": 51984.730439999985,
-            "predicted_profit": 34511.602159999995
+            "predicted_revenue": 51535.13062467308,
+            "predicted_costs": 51535.13062467308,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-26",
-            "predicted_revenue": 89543.40319999999,
-            "predicted_costs": 53463.540599999986,
-            "predicted_profit": 36079.8626
+            "predicted_revenue": 53247.51735761145,
+            "predicted_costs": 53247.51735761145,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-27",
-            "predicted_revenue": 85727.1499,
-            "predicted_costs": 51548.79425999999,
-            "predicted_profit": 34178.355640000016
+            "predicted_revenue": 48977.710309033035,
+            "predicted_costs": 48977.710309033035,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-02-28",
-            "predicted_revenue": 86902.8091,
-            "predicted_costs": 52571.79978000001,
-            "predicted_profit": 34331.00931999999
+            "predicted_revenue": 48914.69947747904,
+            "predicted_costs": 48914.69947747904,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-01",
-            "predicted_revenue": 78204.40990000001,
-            "predicted_costs": 46433.307660000006,
-            "predicted_profit": 31771.102240000007
+            "predicted_revenue": 40750.92795163634,
+            "predicted_costs": 40750.92795163634,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-02",
-            "predicted_revenue": 72312.5105,
-            "predicted_costs": 43473.12288000001,
-            "predicted_profit": 28839.387619999994
+            "predicted_revenue": 39233.41877796604,
+            "predicted_costs": 39233.41877796604,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-03",
-            "predicted_revenue": 70348.54399999998,
-            "predicted_costs": 42044.81879999997,
-            "predicted_profit": 28303.725200000008
+            "predicted_revenue": 38559.69473455097,
+            "predicted_costs": 38559.69473455097,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-04",
-            "predicted_revenue": 72549.67770000003,
-            "predicted_costs": 43983.17567999999,
-            "predicted_profit": 28566.502020000036
+            "predicted_revenue": 39036.977109352156,
+            "predicted_costs": 39036.977109352156,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-05",
-            "predicted_revenue": 72204.78149999998,
-            "predicted_costs": 43431.42527999999,
-            "predicted_profit": 28773.356219999994
+            "predicted_revenue": 39965.75403384402,
+            "predicted_costs": 39965.75403384402,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-06",
-            "predicted_revenue": 72756.62670000005,
-            "predicted_costs": 43593.01853999999,
-            "predicted_profit": 29163.60816000006
+            "predicted_revenue": 35228.265790955666,
+            "predicted_costs": 35228.265790955666,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-07",
-            "predicted_revenue": 73261.27350000004,
-            "predicted_costs": 44124.44993999999,
-            "predicted_profit": 29136.823560000048
+            "predicted_revenue": 34855.23853507037,
+            "predicted_costs": 34855.23853507037,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-08",
-            "predicted_revenue": 77900.8687,
-            "predicted_costs": 46599.26622,
-            "predicted_profit": 31301.60248000001
+            "predicted_revenue": 37761.92628798604,
+            "predicted_costs": 37761.92628798604,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-09",
-            "predicted_revenue": 78549.05790000001,
-            "predicted_costs": 47306.06453999999,
-            "predicted_profit": 31242.993360000022
+            "predicted_revenue": 39523.60114762178,
+            "predicted_costs": 39523.60114762178,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-10",
-            "predicted_revenue": 76624.13710000002,
-            "predicted_costs": 46121.30405999997,
-            "predicted_profit": 30502.83304000005
+            "predicted_revenue": 41395.08084145103,
+            "predicted_costs": 41395.08084145103,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-11",
-            "predicted_revenue": 78291.69240000003,
-            "predicted_costs": 46799.80397999998,
-            "predicted_profit": 31491.888420000047
+            "predicted_revenue": 43135.688237117065,
+            "predicted_costs": 43135.688237117065,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-12",
-            "predicted_revenue": 78243.07180000005,
-            "predicted_costs": 46963.63871999999,
-            "predicted_profit": 31279.43308000006
+            "predicted_revenue": 44850.862393956646,
+            "predicted_costs": 44850.862393956646,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-13",
-            "predicted_revenue": 76941.90760000005,
-            "predicted_costs": 46572.96761999999,
-            "predicted_profit": 30368.93998000006
+            "predicted_revenue": 40584.719581723155,
+            "predicted_costs": 40584.719581723155,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-14",
-            "predicted_revenue": 77765.08900000004,
-            "predicted_costs": 46729.68870000001,
-            "predicted_profit": 31035.400300000023
+            "predicted_revenue": 40525.82376286491,
+            "predicted_costs": 40525.82376286491,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-15",
-            "predicted_revenue": 81019.7054,
-            "predicted_costs": 48674.38559999999,
-            "predicted_profit": 32345.31980000002
+            "predicted_revenue": 43508.58802852382,
+            "predicted_costs": 43508.58802852382,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-16",
-            "predicted_revenue": 83733.79990000006,
-            "predicted_costs": 50794.39494,
-            "predicted_profit": 32939.40496000006
+            "predicted_revenue": 45321.221756412764,
+            "predicted_costs": 45321.221756412764,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-17",
-            "predicted_revenue": 84354.71080000002,
-            "predicted_costs": 51021.58662000002,
-            "predicted_profit": 33333.12418
+            "predicted_revenue": 47202.71800354808,
+            "predicted_costs": 47202.71800354808,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-18",
-            "predicted_revenue": 89663.45469999994,
-            "predicted_costs": 54065.80001999999,
-            "predicted_profit": 35597.654679999956
+            "predicted_revenue": 48946.379848948156,
+            "predicted_costs": 48946.379848948156,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-19",
-            "predicted_revenue": 89166.88419999996,
-            "predicted_costs": 53689.08527999997,
-            "predicted_profit": 35477.79891999999
+            "predicted_revenue": 50659.09122798608,
+            "predicted_costs": 50659.09122798608,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-20",
-            "predicted_revenue": 86744.67500000002,
-            "predicted_costs": 52188.29759999996,
-            "predicted_profit": 34556.377400000056
+            "predicted_revenue": 46389.45969963219,
+            "predicted_costs": 46389.45969963219,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-21",
-            "predicted_revenue": 85687.50389999998,
-            "predicted_costs": 51432.849359999986,
-            "predicted_profit": 34254.654539999996
+            "predicted_revenue": 46326.52499983783,
+            "predicted_costs": 46326.52499983783,
+            "predicted_profit": 0.0
         },
         {
             "date": "2027-03-22",
-            "predicted_revenue": 87749.55160000002,
-            "predicted_costs": 52503.74736000001,
-            "predicted_profit": 35245.80424000001
+            "predicted_revenue": 49307.04387755346,
+            "predicted_costs": 49307.04387755346,
+            "predicted_profit": 0.0
         }
     ]
 }
