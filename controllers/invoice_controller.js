@@ -1375,22 +1375,7 @@ const getInvoices = async (req, res) => {
       // Collect all invoice IDs
       const invoiceIds = invoices.map(i => i.id);
 
-      // Batch fetch items
-      const [allItems] = await connection.query(
-        `SELECT * FROM invoice_items WHERE invoice_id IN (?)`,
-        [invoiceIds]
-      );
-
-      // Group items by invoice_id in memory
-      const itemsMap = {};
-      for (const item of allItems) {
-        if (!itemsMap[item.invoice_id]) itemsMap[item.invoice_id] = [];
-        itemsMap[item.invoice_id].push({
-          ...item,
-          created_at: item.created_at ? new Date(item.created_at).toISOString() : null,
-          updated_at: item.updated_at ? new Date(item.updated_at).toISOString() : null
-        });
-      }
+      // Intentionally omitting `invoice.items` blob batch-fetch to prevent 100MB+ JSON payloads in list views
 
       // Batch check refunds (Group By)
       const [allRefunds] = await connection.query(
@@ -1428,7 +1413,6 @@ const getInvoices = async (req, res) => {
         }
 
         // Attach mapped associations
-        invoice.items = itemsMap[invoice.id] || [];
         invoice.has_refunds = refundsMap[invoice.id] || false;
 
         // Type formatting
@@ -1574,11 +1558,7 @@ const getInvoicesByCustomer = async (req, res) => {
           invoice.status = 'overdue';
         }
 
-        const [items] = await connection.query(
-          `SELECT * FROM invoice_items WHERE invoice_id = ?`,
-          [invoice.id]
-        );
-        invoice.items = items;
+
       }
 
       await connection.commit();

@@ -10,8 +10,8 @@ global.fetch = (url, options) => nodeFetch(url, { ...options, agent: ipv4Agent }
 
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
-// The Gemini API key provided by the user
-const genAI = new GoogleGenerativeAI("AIzaSyBJ0SUY2kHlEOKtKNDZ3cEuQRWhtl0Vzbs");
+// Using the newly provided Gemini API key
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "AIzaSyBkUIqTcwuyidagcOGPsEntUC-_c5iLwXg");
 
 class AiController {
 
@@ -252,4 +252,5 @@ class AiController {
 }
 
 module.exports = AiController;
+
 
